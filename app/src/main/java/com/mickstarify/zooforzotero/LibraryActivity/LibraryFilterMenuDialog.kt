@@ -8,7 +8,6 @@ import android.util.Log
 import android.view.View
 import android.widget.Button
 import android.widget.CheckBox
-import com.google.firebase.analytics.FirebaseAnalytics
 import com.mickstarify.zooforzotero.PreferenceManager
 import com.mickstarify.zooforzotero.R
 import org.jetbrains.anko.layoutInflater
@@ -36,22 +35,12 @@ class LibraryFilterMenuDialog(val context: Context, val onFilterChange: (() -> (
 
         preferences.setSortMethod(selected_sorting_method)
 
-        val params = Bundle().apply {
-            putBoolean("show_pdfs", onlyPDFs)
-            putBoolean("only_notes", onlyNotes)
-            putString("sort_method", selected_sorting_method)
-        }
-        FirebaseAnalytics.getInstance(context).logEvent("set_filter", params)
-
         onFilterChange()
     }
 
     private fun getSortString(method: String): String {
         val i = context.resources.getStringArray(R.array.sort_options_values).indexOf(method)
         if (i == -1) {
-            val params = Bundle()
-            params.putString("method", method)
-            FirebaseAnalytics.getInstance(context).logEvent("error_sort_method_not_found", params)
             return "Error"
         }
         return context.resources.getTextArray(R.array.sort_options_entries)[i].toString()

@@ -1,0 +1,1666 @@
+[
+    {
+        "merged": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\build\\intermediates\\res\\merged\\debug\\drawable_plus_active.png.flat",
+        "source": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\src\\main\\res\\drawable\\plus_active.png"
+    },
+    {
+        "merged": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\build\\intermediates\\res\\merged\\debug\\drawable_toolbar_fullscreen_bottom.png.flat",
+        "source": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\src\\main\\res\\drawable\\toolbar_fullscreen_bottom.png"
+    },
+    {
+        "merged": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\build\\intermediates\\res\\merged\\debug\\drawable_annotation_move_selected.png.flat",
+        "source": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\src\\main\\res\\drawable\\annotation_move_selected.png"
+    },
+    {
+        "merged": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\build\\intermediates\\res\\merged\\debug\\drawable_treeitem_bill.png.flat",
+        "source": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\src\\main\\res\\drawable\\treeitem_bill.png"
+    },
+    {
+        "merged": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\build\\intermediates\\res\\merged\\debug\\drawable_prefs_search.png.flat",
+        "source": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\src\\main\\res\\drawable\\prefs_search.png"
+    },
+    {
+        "merged": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_baseline_settings_applications_white_18.png.flat",
+        "source": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\src\\main\\res\\drawable-hdpi\\baseline_settings_applications_white_18.png"
+    },
+    {
+        "merged": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_baseline_description_black_24.png.flat",
+        "source": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\src\\main\\res\\drawable-xxxhdpi\\baseline_description_black_24.png"
+    },
+    {
+        "merged": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\build\\intermediates\\res\\merged\\debug\\xml_file_paths.xml.flat",
+        "source": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\src\\main\\res\\xml\\file_paths.xml"
+    },
+    {
+        "merged": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\build\\intermediates\\res\\merged\\debug\\drawable_treeitem_computerprogram.png.flat",
+        "source": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\src\\main\\res\\drawable\\treeitem_computerprogram.png"
+    },
+    {
+        "merged": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\build\\intermediates\\res\\merged\\debug\\drawable_prefs_styles.png.flat",
+        "source": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\src\\main\\res\\drawable\\prefs_styles.png"
+    },
+    {
+        "merged": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\build\\intermediates\\res\\merged\\debug\\drawable_prefs_sync.png.flat",
+        "source": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\src\\main\\res\\drawable\\prefs_sync.png"
+    },
+    {
+        "merged": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\build\\intermediates\\res\\merged\\debug\\drawable_bullet_blue_empty_2x.png.flat",
+        "source": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\src\\main\\res\\drawable\\bullet_blue_empty_2x.png"
+    },
+    {
+        "merged": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\build\\intermediates\\res\\merged\\debug\\drawable_treeitem_2x.png.flat",
+        "source": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\src\\main\\res\\drawable\\treeitem_2x.png"
+    },
+    {
+        "merged": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\build\\intermediates\\res\\merged\\debug\\drawable_treeitem_interview_2x.png.flat",
+        "source": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\src\\main\\res\\drawable\\treeitem_interview_2x.png"
+    },
+    {
+        "merged": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_icon_round.png.flat",
+        "source": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\src\\main\\res\\mipmap-xxxhdpi\\icon_round.png"
+    },
+    {
+        "merged": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_baseline_delete_black_24.png.flat",
+        "source": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\src\\main\\res\\drawable-xxxhdpi\\baseline_delete_black_24.png"
+    },
+    {
+        "merged": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_baseline_filter_list_white_48.png.flat",
+        "source": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\src\\main\\res\\drawable-xhdpi\\baseline_filter_list_white_48.png"
+    },
+    {
+        "merged": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_baseline_settings_applications_white_48.png.flat",
+        "source": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\src\\main\\res\\drawable-xxhdpi\\baseline_settings_applications_white_48.png"
+    },
+    {
+        "merged": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\build\\intermediates\\res\\merged\\debug\\drawable_page_white_add.png.flat",
+        "source": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\src\\main\\res\\drawable\\page_white_add.png"
+    },
+    {
+        "merged": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_dialog_alert.png.flat",
+        "source": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_dialog_alert.png"
+    },
+    {
+        "merged": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\build\\intermediates\\res\\merged\\debug\\drawable_treesource_feed_2x.png.flat",
+        "source": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\src\\main\\res\\drawable\\treesource_feed_2x.png"
+    },
+    {
+        "merged": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\build\\intermediates\\res\\merged\\debug\\drawable_treeitem_webpage_gray_48px.png.flat",
+        "source": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\src\\main\\res\\drawable\\treeitem_webpage_gray_48px.png"
+    },
+    {
+        "merged": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\build\\intermediates\\res\\merged\\debug\\drawable_treeitem_film_2x.png.flat",
+        "source": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\src\\main\\res\\drawable\\treeitem_film_2x.png"
+    },
+    {
+        "merged": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\build\\intermediates\\res\\merged\\debug\\drawable_arrow_refresh.png.flat",
+        "source": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\src\\main\\res\\drawable\\arrow_refresh.png"
+    },
+    {
+        "merged": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_zoterosync_grey.png.flat",
+        "source": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\src\\main\\res\\mipmap-hdpi\\ic_zoterosync_grey.png"
+    },
+    {
+        "merged": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\build\\intermediates\\res\\merged\\debug\\drawable_treesource_trash.png.flat",
+        "source": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\src\\main\\res\\drawable\\treesource_trash.png"
+    },
+    {
+        "merged": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\build\\intermediates\\res\\merged\\debug\\drawable_treeitem_booksection.png.flat",
+        "source": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\src\\main\\res\\drawable\\treeitem_booksection.png"
+    },
+    {
+        "merged": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\build\\intermediates\\res\\merged\\debug\\drawable_toolbar_snapshot_add.png.flat",
+        "source": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\src\\main\\res\\drawable\\toolbar_snapshot_add.png"
+    },
+    {
+        "merged": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\build\\intermediates\\res\\merged\\debug\\drawable_treesource_groups.png.flat",
+        "source": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\src\\main\\res\\drawable\\treesource_groups.png"
+    },
+    {
+        "merged": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\build\\intermediates\\res\\merged\\debug\\drawable_toolbar_collection_edit_2x.png.flat",
+        "source": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\src\\main\\res\\drawable\\toolbar_collection_edit_2x.png"
+    },
+    {
+        "merged": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\build\\intermediates\\res\\merged\\debug\\drawable_treesource_feed.png.flat",
+        "source": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\src\\main\\res\\drawable\\treesource_feed.png"
+    },
+    {
+        "merged": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\build\\intermediates\\res\\merged\\debug\\xml_root_preferences.xml.flat",
+        "source": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\src\\main\\res\\xml\\root_preferences.xml"
+    },
+    {
+        "merged": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\build\\intermediates\\res\\merged\\debug\\drawable_treeitem_map.png.flat",
+        "source": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\src\\main\\res\\drawable\\treeitem_map.png"
+    },
+    {
+        "merged": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_folder_black_24dp.png.flat",
+        "source": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\src\\main\\res\\drawable-mdpi\\ic_folder_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\build\\intermediates\\res\\merged\\debug\\drawable_toolbar_item_add_2x.png.flat",
+        "source": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\src\\main\\res\\drawable\\toolbar_item_add_2x.png"
+    },
+    {
+        "merged": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_baseline_search_white_24.png.flat",
+        "source": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\src\\main\\res\\drawable-mdpi\\baseline_search_white_24.png"
+    },
+    {
+        "merged": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_folder_black_24dp.png.flat",
+        "source": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\src\\main\\res\\drawable-xxhdpi\\ic_folder_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_dropbox.png.flat",
+        "source": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\src\\main\\res\\mipmap-xhdpi\\ic_dropbox.png"
+    },
+    {
+        "merged": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_item_authors_entry.xml.flat",
+        "source": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\src\\main\\res\\layout\\fragment_item_authors_entry.xml"
+    },
+    {
+        "merged": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_dialog_alert.png.flat",
+        "source": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\src\\main\\res\\mipmap-hdpi\\ic_dialog_alert.png"
+    },
+    {
+        "merged": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\build\\intermediates\\res\\merged\\debug\\drawable_library_add_2x.png.flat",
+        "source": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\src\\main\\res\\drawable\\library_add_2x.png"
+    },
+    {
+        "merged": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\build\\intermediates\\res\\merged\\debug\\drawable_treeitem_interview.png.flat",
+        "source": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\src\\main\\res\\drawable\\treeitem_interview.png"
+    },
+    {
+        "merged": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_baseline_search_white_18.png.flat",
+        "source": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\src\\main\\res\\drawable-xxxhdpi\\baseline_search_white_18.png"
+    },
+    {
+        "merged": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\build\\intermediates\\res\\merged\\debug\\drawable_treeitem_podcast.png.flat",
+        "source": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\src\\main\\res\\drawable\\treeitem_podcast.png"
+    },
+    {
+        "merged": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_baseline_description_black_36.png.flat",
+        "source": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\src\\main\\res\\drawable-xhdpi\\baseline_description_black_36.png"
+    },
+    {
+        "merged": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_baseline_settings_applications_white_36.png.flat",
+        "source": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\src\\main\\res\\drawable-hdpi\\baseline_settings_applications_white_36.png"
+    },
+    {
+        "merged": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\build\\intermediates\\res\\merged\\debug\\drawable_treeitem_artwork.png.flat",
+        "source": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\src\\main\\res\\drawable\\treeitem_artwork.png"
+    },
+    {
+        "merged": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\build\\intermediates\\res\\merged\\debug\\drawable_group_add_2x.png.flat",
+        "source": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\src\\main\\res\\drawable\\group_add_2x.png"
+    },
+    {
+        "merged": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\build\\intermediates\\res\\merged\\debug\\drawable_treesource_library_2x.png.flat",
+        "source": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\src\\main\\res\\drawable\\treesource_library_2x.png"
+    },
+    {
+        "merged": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\build\\intermediates\\res\\merged\\debug\\drawable_treesource_feedlibrary_2x.png.flat",
+        "source": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\src\\main\\res\\drawable\\treesource_feedlibrary_2x.png"
+    },
+    {
+        "merged": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_baseline_filter_list_white_36.png.flat",
+        "source": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\src\\main\\res\\drawable-xxxhdpi\\baseline_filter_list_white_36.png"
+    },
+    {
+        "merged": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\src\\main\\res\\drawable-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_baseline_description_black_48.png.flat",
+        "source": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\src\\main\\res\\drawable-mdpi\\baseline_description_black_48.png"
+    },
+    {
+        "merged": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_baseline_search_white_36.png.flat",
+        "source": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\src\\main\\res\\drawable-xxxhdpi\\baseline_search_white_36.png"
+    },
+    {
+        "merged": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_baseline_settings_applications_white_48.png.flat",
+        "source": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\src\\main\\res\\drawable-mdpi\\baseline_settings_applications_white_48.png"
+    },
+    {
+        "merged": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_baseline_description_black_18.png.flat",
+        "source": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\src\\main\\res\\drawable-xhdpi\\baseline_description_black_18.png"
+    },
+    {
+        "merged": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_icon_foreground.png.flat",
+        "source": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\src\\main\\res\\mipmap-xxhdpi\\icon_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_baseline_delete_black_18.png.flat",
+        "source": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\src\\main\\res\\drawable-mdpi\\baseline_delete_black_18.png"
+    },
+    {
+        "merged": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_onedrive.png.flat",
+        "source": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_onedrive.png"
+    },
+    {
+        "merged": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\build\\intermediates\\res\\merged\\debug\\drawable_toolbar_note_add_2x.png.flat",
+        "source": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\src\\main\\res\\drawable\\toolbar_note_add_2x.png"
+    },
+    {
+        "merged": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\build\\intermediates\\res\\merged\\debug\\drawable_annotation_hide.png.flat",
+        "source": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\src\\main\\res\\drawable\\annotation_hide.png"
+    },
+    {
+        "merged": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\build\\intermediates\\res\\merged\\debug\\drawable_treeitem_conferencepaper.png.flat",
+        "source": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\src\\main\\res\\drawable\\treeitem_conferencepaper.png"
+    },
+    {
+        "merged": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\build\\intermediates\\res\\merged\\debug\\drawable_citation_up_gray.png.flat",
+        "source": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\src\\main\\res\\drawable\\citation_up_gray.png"
+    },
+    {
+        "merged": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_baseline_delete_black_48.png.flat",
+        "source": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\src\\main\\res\\drawable-mdpi\\baseline_delete_black_48.png"
+    },
+    {
+        "merged": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\build\\intermediates\\res\\merged\\debug\\drawable_treeitem_attachment_link.png.flat",
+        "source": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\src\\main\\res\\drawable\\treeitem_attachment_link.png"
+    },
+    {
+        "merged": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_baseline_filter_list_white_24.png.flat",
+        "source": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\src\\main\\res\\drawable-mdpi\\baseline_filter_list_white_24.png"
+    },
+    {
+        "merged": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\build\\intermediates\\res\\merged\\debug\\layout_dialog_filter_menu.xml.flat",
+        "source": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\src\\main\\res\\layout\\dialog_filter_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\build\\intermediates\\res\\merged\\debug\\drawable_baseline_search_24.xml.flat",
+        "source": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\src\\main\\res\\drawable\\baseline_search_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\build\\intermediates\\res\\merged\\debug\\drawable_treesource_collection.png.flat",
+        "source": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\src\\main\\res\\drawable\\treesource_collection.png"
+    },
+    {
+        "merged": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_baseline_description_black_24.png.flat",
+        "source": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\src\\main\\res\\drawable-hdpi\\baseline_description_black_24.png"
+    },
+    {
+        "merged": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\build\\intermediates\\res\\merged\\debug\\drawable_treeitem_email.png.flat",
+        "source": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\src\\main\\res\\drawable\\treeitem_email.png"
+    },
+    {
+        "merged": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_baseline_search_white_18.png.flat",
+        "source": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\src\\main\\res\\drawable-xxhdpi\\baseline_search_white_18.png"
+    },
+    {
+        "merged": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_folder_black_24dp.png.flat",
+        "source": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\src\\main\\res\\drawable-hdpi\\ic_folder_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_zoterosync.png.flat",
+        "source": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_zoterosync.png"
+    },
+    {
+        "merged": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\build\\intermediates\\res\\merged\\debug\\drawable_locate_internal_viewer.png.flat",
+        "source": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\src\\main\\res\\drawable\\locate_internal_viewer.png"
+    },
+    {
+        "merged": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\build\\intermediates\\res\\merged\\debug\\drawable_annotate_add_selected.png.flat",
+        "source": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\src\\main\\res\\drawable\\annotate_add_selected.png"
+    },
+    {
+        "merged": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_search_results.xml.flat",
+        "source": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\src\\main\\res\\layout\\activity_search_results.xml"
+    },
+    {
+        "merged": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\build\\intermediates\\res\\merged\\debug\\drawable_bullet_yellow.png.flat",
+        "source": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\src\\main\\res\\drawable\\bullet_yellow.png"
+    },
+    {
+        "merged": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\build\\intermediates\\res\\merged\\debug\\drawable_treesource_duplicates.png.flat",
+        "source": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\src\\main\\res\\drawable\\treesource_duplicates.png"
+    },
+    {
+        "merged": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_baseline_filter_list_white_24.png.flat",
+        "source": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\src\\main\\res\\drawable-xxhdpi\\baseline_filter_list_white_24.png"
+    },
+    {
+        "merged": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\build\\intermediates\\res\\merged\\debug\\drawable_citation_up.png.flat",
+        "source": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\src\\main\\res\\drawable\\citation_up.png"
+    },
+    {
+        "merged": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\build\\intermediates\\res\\merged\\debug\\drawable_treesource_groups_2x.png.flat",
+        "source": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\src\\main\\res\\drawable\\treesource_groups_2x.png"
+    },
+    {
+        "merged": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\build\\intermediates\\res\\merged\\debug\\drawable_citation_add.png.flat",
+        "source": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\src\\main\\res\\drawable\\citation_add.png"
+    },
+    {
+        "merged": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\build\\intermediates\\res\\merged\\debug\\drawable_toolbar_go_arrow.png.flat",
+        "source": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\src\\main\\res\\drawable\\toolbar_go_arrow.png"
+    },
+    {
+        "merged": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\build\\intermediates\\res\\merged\\debug\\drawable_treesource_trash_full.png.flat",
+        "source": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\src\\main\\res\\drawable\\treesource_trash_full.png"
+    },
+    {
+        "merged": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_zotero_api_setup.xml.flat",
+        "source": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\src\\main\\res\\layout\\activity_zotero_api_setup.xml"
+    },
+    {
+        "merged": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\build\\intermediates\\res\\merged\\debug\\drawable_epub_icon.png.flat",
+        "source": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\src\\main\\res\\drawable\\epub_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_item_text_entry.xml.flat",
+        "source": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\src\\main\\res\\layout\\fragment_item_text_entry.xml"
+    },
+    {
+        "merged": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\build\\intermediates\\res\\merged\\debug\\drawable_rtfscan_accept.png.flat",
+        "source": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\src\\main\\res\\drawable\\rtfscan_accept.png"
+    },
+    {
+        "merged": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\build\\intermediates\\res\\merged\\debug\\drawable_treesource_search.png.flat",
+        "source": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\src\\main\\res\\drawable\\treesource_search.png"
+    },
+    {
+        "merged": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_baseline_description_black_48.png.flat",
+        "source": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\src\\main\\res\\drawable-xxhdpi\\baseline_description_black_48.png"
+    },
+    {
+        "merged": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_baseline_search_white_36.png.flat",
+        "source": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\src\\main\\res\\drawable-xhdpi\\baseline_search_white_36.png"
+    },
+    {
+        "merged": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\build\\intermediates\\res\\merged\\debug\\drawable_puzzle_arrow.png.flat",
+        "source": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\src\\main\\res\\drawable\\puzzle_arrow.png"
+    },
+    {
+        "merged": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_icon_round.png.flat",
+        "source": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\src\\main\\res\\mipmap-hdpi\\icon_round.png"
+    },
+    {
+        "merged": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\build\\intermediates\\res\\merged\\debug\\drawable_treeitem_letter_2x.png.flat",
+        "source": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\src\\main\\res\\drawable\\treeitem_letter_2x.png"
+    },
+    {
+        "merged": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\build\\intermediates\\res\\merged\\debug\\drawable_toolbar_item_add.png.flat",
+        "source": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\src\\main\\res\\drawable\\toolbar_item_add.png"
+    },
+    {
+        "merged": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_baseline_search_white_48.png.flat",
+        "source": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\src\\main\\res\\drawable-hdpi\\baseline_search_white_48.png"
+    },
+    {
+        "merged": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_baseline_description_black_24.png.flat",
+        "source": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\src\\main\\res\\drawable-mdpi\\baseline_description_black_24.png"
+    },
+    {
+        "merged": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_menu_slideshow.xml.flat",
+        "source": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\src\\main\\res\\drawable\\ic_menu_slideshow.xml"
+    },
+    {
+        "merged": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\build\\intermediates\\res\\merged\\debug\\drawable_page_white_add_2x.png.flat",
+        "source": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\src\\main\\res\\drawable\\page_white_add_2x.png"
+    },
+    {
+        "merged": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\build\\intermediates\\res\\merged\\debug\\drawable_treesource_feed_error_2x.png.flat",
+        "source": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\src\\main\\res\\drawable\\treesource_feed_error_2x.png"
+    },
+    {
+        "merged": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\build\\intermediates\\res\\merged\\debug\\drawable_treesource_feed_error.png.flat",
+        "source": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\src\\main\\res\\drawable\\treesource_feed_error.png"
+    },
+    {
+        "merged": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_item_main.xml.flat",
+        "source": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\src\\main\\res\\layout\\fragment_item_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_baseline_delete_black_36.png.flat",
+        "source": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\src\\main\\res\\drawable-hdpi\\baseline_delete_black_36.png"
+    },
+    {
+        "merged": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\build\\intermediates\\res\\merged\\debug\\drawable_arrow_rotate_animated.png.flat",
+        "source": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\src\\main\\res\\drawable\\arrow_rotate_animated.png"
+    },
+    {
+        "merged": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\build\\intermediates\\res\\merged\\debug\\drawable_tag.png.flat",
+        "source": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\src\\main\\res\\drawable\\tag.png"
+    },
+    {
+        "merged": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_baseline_search_white_24.png.flat",
+        "source": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\src\\main\\res\\drawable-xhdpi\\baseline_search_white_24.png"
+    },
+    {
+        "merged": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_baseline_settings_applications_white_36.png.flat",
+        "source": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\src\\main\\res\\drawable-xxxhdpi\\baseline_settings_applications_white_36.png"
+    },
+    {
+        "merged": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\build\\intermediates\\res\\merged\\debug\\drawable_control_stop_blue.png.flat",
+        "source": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\src\\main\\res\\drawable\\control_stop_blue.png"
+    },
+    {
+        "merged": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\build\\intermediates\\res\\merged\\debug\\drawable_citation_add_gray.png.flat",
+        "source": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\src\\main\\res\\drawable\\citation_add_gray.png"
+    },
+    {
+        "merged": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\build\\intermediates\\res\\merged\\debug\\drawable_annotation_close.png.flat",
+        "source": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\src\\main\\res\\drawable\\annotation_close.png"
+    },
+    {
+        "merged": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_icon_foreground.png.flat",
+        "source": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\src\\main\\res\\mipmap-xhdpi\\icon_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_baseline_settings_applications_white_24.png.flat",
+        "source": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\src\\main\\res\\drawable-xhdpi\\baseline_settings_applications_white_24.png"
+    },
+    {
+        "merged": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_icon_round.png.flat",
+        "source": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\src\\main\\res\\mipmap-mdpi\\icon_round.png"
+    },
+    {
+        "merged": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\build\\intermediates\\res\\merged\\debug\\drawable_treeitem_hearing.png.flat",
+        "source": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\src\\main\\res\\drawable\\treeitem_hearing.png"
+    },
+    {
+        "merged": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\build\\intermediates\\res\\merged\\debug\\drawable_treeitem_bill_2x.png.flat",
+        "source": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\src\\main\\res\\drawable\\treeitem_bill_2x.png"
+    },
+    {
+        "merged": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_baseline_filter_list_white_36.png.flat",
+        "source": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\src\\main\\res\\drawable-xxhdpi\\baseline_filter_list_white_36.png"
+    },
+    {
+        "merged": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\build\\intermediates\\res\\merged\\debug\\drawable_minus_active.png.flat",
+        "source": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\src\\main\\res\\drawable\\minus_active.png"
+    },
+    {
+        "merged": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_dialog_alert.png.flat",
+        "source": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\src\\main\\res\\mipmap-mdpi\\ic_dialog_alert.png"
+    },
+    {
+        "merged": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\build\\intermediates\\res\\merged\\debug\\drawable_treeitem_letter.png.flat",
+        "source": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\src\\main\\res\\drawable\\treeitem_letter.png"
+    },
+    {
+        "merged": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\build\\intermediates\\res\\merged\\debug\\drawable_citation_down.png.flat",
+        "source": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\src\\main\\res\\drawable\\citation_down.png"
+    },
+    {
+        "merged": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\build\\intermediates\\res\\merged\\debug\\drawable_arrow_split_090.png.flat",
+        "source": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\src\\main\\res\\drawable\\arrow_split_090.png"
+    },
+    {
+        "merged": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_baseline_filter_list_white_18.png.flat",
+        "source": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\src\\main\\res\\drawable-xhdpi\\baseline_filter_list_white_18.png"
+    },
+    {
+        "merged": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\build\\intermediates\\res\\merged\\debug\\drawable_treesource_commons.png.flat",
+        "source": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\src\\main\\res\\drawable\\treesource_commons.png"
+    },
+    {
+        "merged": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_dialog_alert.png.flat",
+        "source": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_dialog_alert.png"
+    },
+    {
+        "merged": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_baseline_search_white_48.png.flat",
+        "source": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\src\\main\\res\\drawable-mdpi\\baseline_search_white_48.png"
+    },
+    {
+        "merged": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_baseline_delete_black_36.png.flat",
+        "source": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\src\\main\\res\\drawable-mdpi\\baseline_delete_black_36.png"
+    },
+    {
+        "merged": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\build\\intermediates\\res\\merged\\debug\\drawable_treeitem_book.png.flat",
+        "source": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\src\\main\\res\\drawable\\treeitem_book.png"
+    },
+    {
+        "merged": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\build\\intermediates\\res\\merged\\debug\\drawable_treeitem_film.png.flat",
+        "source": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\src\\main\\res\\drawable\\treeitem_film.png"
+    },
+    {
+        "merged": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_drive_scaled.png.flat",
+        "source": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\src\\main\\res\\mipmap-xhdpi\\ic_drive_scaled.png"
+    },
+    {
+        "merged": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_drive_scaled.png.flat",
+        "source": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\src\\main\\res\\mipmap-hdpi\\ic_drive_scaled.png"
+    },
+    {
+        "merged": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\build\\intermediates\\res\\merged\\debug\\drawable_warning.png.flat",
+        "source": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\src\\main\\res\\drawable\\warning.png"
+    },
+    {
+        "merged": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_baseline_filter_list_white_36.png.flat",
+        "source": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\src\\main\\res\\drawable-mdpi\\baseline_filter_list_white_36.png"
+    },
+    {
+        "merged": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_error_black_24dp.xml.flat",
+        "source": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\src\\main\\res\\drawable\\ic_error_black_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\build\\intermediates\\res\\merged\\debug\\drawable_treeitem_forumpost_2x.png.flat",
+        "source": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\src\\main\\res\\drawable\\treeitem_forumpost_2x.png"
+    },
+    {
+        "merged": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\build\\intermediates\\res\\merged\\debug\\drawable_treeitem_blogpost.png.flat",
+        "source": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\src\\main\\res\\drawable\\treeitem_blogpost.png"
+    },
+    {
+        "merged": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\build\\intermediates\\res\\merged\\debug\\drawable_prefs_export.png.flat",
+        "source": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\src\\main\\res\\drawable\\prefs_export.png"
+    },
+    {
+        "merged": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\build\\intermediates\\res\\merged\\debug\\drawable_library_graphic.png.flat",
+        "source": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\src\\main\\res\\drawable\\library_graphic.png"
+    },
+    {
+        "merged": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_icon.png.flat",
+        "source": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\src\\main\\res\\mipmap-hdpi\\icon.png"
+    },
+    {
+        "merged": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_baseline_delete_black_36.png.flat",
+        "source": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\src\\main\\res\\drawable-xxhdpi\\baseline_delete_black_36.png"
+    },
+    {
+        "merged": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_baseline_search_white_18.png.flat",
+        "source": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\src\\main\\res\\drawable-hdpi\\baseline_search_white_18.png"
+    },
+    {
+        "merged": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_baseline_delete_black_48.png.flat",
+        "source": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\src\\main\\res\\drawable-xxxhdpi\\baseline_delete_black_48.png"
+    },
+    {
+        "merged": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\build\\intermediates\\res\\merged\\debug\\drawable_treeitem_webpage_gray.png.flat",
+        "source": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\src\\main\\res\\drawable\\treeitem_webpage_gray.png"
+    },
+    {
+        "merged": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\build\\intermediates\\res\\merged\\debug\\drawable_cog.png.flat",
+        "source": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\src\\main\\res\\drawable\\cog.png"
+    },
+    {
+        "merged": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\build\\intermediates\\res\\merged\\debug\\drawable_tag_automatic.png.flat",
+        "source": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\src\\main\\res\\drawable\\tag_automatic.png"
+    },
+    {
+        "merged": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\build\\intermediates\\res\\merged\\debug\\drawable_bullet_blue.png.flat",
+        "source": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\src\\main\\res\\drawable\\bullet_blue.png"
+    },
+    {
+        "merged": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_baseline_settings_applications_white_24.png.flat",
+        "source": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\src\\main\\res\\drawable-xxhdpi\\baseline_settings_applications_white_24.png"
+    },
+    {
+        "merged": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_baseline_delete_black_48.png.flat",
+        "source": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\src\\main\\res\\drawable-hdpi\\baseline_delete_black_48.png"
+    },
+    {
+        "merged": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\build\\intermediates\\res\\merged\\debug\\drawable_treeitem_radiobroadcast.png.flat",
+        "source": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\src\\main\\res\\drawable\\treeitem_radiobroadcast.png"
+    },
+    {
+        "merged": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_baseline_settings_applications_white_24.png.flat",
+        "source": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\src\\main\\res\\drawable-xxxhdpi\\baseline_settings_applications_white_24.png"
+    },
+    {
+        "merged": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_baseline_description_black_24.png.flat",
+        "source": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\src\\main\\res\\drawable-xxhdpi\\baseline_description_black_24.png"
+    },
+    {
+        "merged": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_arrow_upward_24px.xml.flat",
+        "source": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\src\\main\\res\\drawable\\ic_arrow_upward_24px.xml"
+    },
+    {
+        "merged": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\build\\intermediates\\res\\merged\\debug\\drawable_warning_2x.png.flat",
+        "source": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\src\\main\\res\\drawable\\warning_2x.png"
+    },
+    {
+        "merged": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_baseline_search_white_48.png.flat",
+        "source": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\src\\main\\res\\drawable-xxhdpi\\baseline_search_white_48.png"
+    },
+    {
+        "merged": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\build\\intermediates\\res\\merged\\debug\\drawable_treesource_trash_full_2x.png.flat",
+        "source": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\src\\main\\res\\drawable\\treesource_trash_full_2x.png"
+    },
+    {
+        "merged": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_icon_foreground.png.flat",
+        "source": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\src\\main\\res\\mipmap-hdpi\\icon_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\build\\intermediates\\res\\merged\\debug\\drawable_prefs_advanced.png.flat",
+        "source": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\src\\main\\res\\drawable\\prefs_advanced.png"
+    },
+    {
+        "merged": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_baseline_filter_list_white_18.png.flat",
+        "source": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\src\\main\\res\\drawable-mdpi\\baseline_filter_list_white_18.png"
+    },
+    {
+        "merged": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\build\\intermediates\\res\\merged\\debug\\drawable_treeitem_dictionaryentry.png.flat",
+        "source": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\src\\main\\res\\drawable\\treeitem_dictionaryentry.png"
+    },
+    {
+        "merged": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_baseline_filter_list_white_36.png.flat",
+        "source": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\src\\main\\res\\drawable-xhdpi\\baseline_filter_list_white_36.png"
+    },
+    {
+        "merged": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\build\\intermediates\\res\\merged\\debug\\drawable_textfield_dual.png.flat",
+        "source": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\src\\main\\res\\drawable\\textfield_dual.png"
+    },
+    {
+        "merged": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\build\\intermediates\\res\\merged\\debug\\drawable_treeitem_instantmessage.png.flat",
+        "source": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\src\\main\\res\\drawable\\treeitem_instantmessage.png"
+    },
+    {
+        "merged": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\build\\intermediates\\res\\merged\\debug\\drawable_progress_arcs.png.flat",
+        "source": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\src\\main\\res\\drawable\\progress_arcs.png"
+    },
+    {
+        "merged": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_item_note_entry.xml.flat",
+        "source": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\src\\main\\res\\layout\\fragment_item_note_entry.xml"
+    },
+    {
+        "merged": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_folder_black_24dp.png.flat",
+        "source": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\src\\main\\res\\drawable-xhdpi\\ic_folder_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\build\\intermediates\\res\\merged\\debug\\drawable_group_add.png.flat",
+        "source": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\src\\main\\res\\drawable\\group_add.png"
+    },
+    {
+        "merged": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\build\\intermediates\\res\\merged\\debug\\drawable_minus.png.flat",
+        "source": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\src\\main\\res\\drawable\\minus.png"
+    },
+    {
+        "merged": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\build\\intermediates\\res\\merged\\debug\\drawable_treeitem_case.png.flat",
+        "source": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\src\\main\\res\\drawable\\treeitem_case.png"
+    },
+    {
+        "merged": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\build\\intermediates\\res\\merged\\debug\\drawable_treeitem_webpage_48px.png.flat",
+        "source": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\src\\main\\res\\drawable\\treeitem_webpage_48px.png"
+    },
+    {
+        "merged": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_baseline_search_white_36.png.flat",
+        "source": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\src\\main\\res\\drawable-mdpi\\baseline_search_white_36.png"
+    },
+    {
+        "merged": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\build\\intermediates\\res\\merged\\debug\\drawable_treeitem_presentation.png.flat",
+        "source": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\src\\main\\res\\drawable\\treeitem_presentation.png"
+    },
+    {
+        "merged": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_baseline_delete_black_24.png.flat",
+        "source": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\src\\main\\res\\drawable-xxhdpi\\baseline_delete_black_24.png"
+    },
+    {
+        "merged": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_icon.png.flat",
+        "source": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\src\\main\\res\\mipmap-mdpi\\icon.png"
+    },
+    {
+        "merged": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\build\\intermediates\\res\\merged\\debug\\drawable_tag_2x.png.flat",
+        "source": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\src\\main\\res\\drawable\\tag_2x.png"
+    },
+    {
+        "merged": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_baseline_filter_list_white_18.png.flat",
+        "source": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\src\\main\\res\\drawable-xxhdpi\\baseline_filter_list_white_18.png"
+    },
+    {
+        "merged": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\build\\intermediates\\res\\merged\\debug\\drawable_pie.png.flat",
+        "source": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\src\\main\\res\\drawable\\pie.png"
+    },
+    {
+        "merged": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_onedrive.png.flat",
+        "source": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\src\\main\\res\\mipmap-mdpi\\ic_onedrive.png"
+    },
+    {
+        "merged": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\build\\intermediates\\res\\merged\\debug\\drawable_toolbar_collection_add_2x.png.flat",
+        "source": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\src\\main\\res\\drawable\\toolbar_collection_add_2x.png"
+    },
+    {
+        "merged": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\build\\intermediates\\res\\merged\\debug\\drawable_toolbar_feed_add.png.flat",
+        "source": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\src\\main\\res\\drawable\\toolbar_feed_add.png"
+    },
+    {
+        "merged": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_drive_scaled.png.flat",
+        "source": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_drive_scaled.png"
+    },
+    {
+        "merged": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\build\\intermediates\\res\\merged\\debug\\drawable_attach_small.png.flat",
+        "source": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\src\\main\\res\\drawable\\attach_small.png"
+    },
+    {
+        "merged": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\build\\intermediates\\res\\merged\\debug\\drawable_arrow_join_090.png.flat",
+        "source": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\src\\main\\res\\drawable\\arrow_join_090.png"
+    },
+    {
+        "merged": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_baseline_search_white_48.png.flat",
+        "source": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\src\\main\\res\\drawable-xxxhdpi\\baseline_search_white_48.png"
+    },
+    {
+        "merged": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\build\\intermediates\\res\\merged\\debug\\drawable_side_nav_bar.xml.flat",
+        "source": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\src\\main\\res\\drawable\\side_nav_bar.xml"
+    },
+    {
+        "merged": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_baseline_search_white_36.png.flat",
+        "source": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\src\\main\\res\\drawable-xxhdpi\\baseline_search_white_36.png"
+    },
+    {
+        "merged": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_baseline_delete_black_24.png.flat",
+        "source": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\src\\main\\res\\drawable-mdpi\\baseline_delete_black_24.png"
+    },
+    {
+        "merged": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_baseline_delete_black_18.png.flat",
+        "source": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\src\\main\\res\\drawable-hdpi\\baseline_delete_black_18.png"
+    },
+    {
+        "merged": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\build\\intermediates\\res\\merged\\debug\\drawable_treeitem_computerprogram_2x.png.flat",
+        "source": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\src\\main\\res\\drawable\\treeitem_computerprogram_2x.png"
+    },
+    {
+        "merged": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_icon_round.png.flat",
+        "source": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\src\\main\\res\\mipmap-xhdpi\\icon_round.png"
+    },
+    {
+        "merged": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_dropbox.png.flat",
+        "source": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_dropbox.png"
+    },
+    {
+        "merged": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_baseline_filter_list_white_24.png.flat",
+        "source": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\src\\main\\res\\drawable-xxxhdpi\\baseline_filter_list_white_24.png"
+    },
+    {
+        "merged": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\build\\intermediates\\res\\merged\\debug\\drawable_citation_delete.png.flat",
+        "source": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\src\\main\\res\\drawable\\citation_delete.png"
+    },
+    {
+        "merged": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_web_dav_setup.xml.flat",
+        "source": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\src\\main\\res\\layout\\activity_web_dav_setup.xml"
+    },
+    {
+        "merged": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\build\\intermediates\\res\\merged\\debug\\drawable_treeitem_note_2x.png.flat",
+        "source": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\src\\main\\res\\drawable\\treeitem_note_2x.png"
+    },
+    {
+        "merged": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\build\\intermediates\\res\\merged\\debug\\drawable_treeitem_webpage_2x.png.flat",
+        "source": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\src\\main\\res\\drawable\\treeitem_webpage_2x.png"
+    },
+    {
+        "merged": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\build\\intermediates\\res\\merged\\debug\\drawable_prefs_proxies.png.flat",
+        "source": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\src\\main\\res\\drawable\\prefs_proxies.png"
+    },
+    {
+        "merged": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\build\\intermediates\\res\\merged\\debug\\drawable_toolbar_advanced_search_2x.png.flat",
+        "source": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\src\\main\\res\\drawable\\toolbar_advanced_search_2x.png"
+    },
+    {
+        "merged": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\build\\intermediates\\res\\merged\\debug\\drawable_toolbar_fullscreen_top.png.flat",
+        "source": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\src\\main\\res\\drawable\\toolbar_fullscreen_top.png"
+    },
+    {
+        "merged": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\build\\intermediates\\res\\merged\\debug\\layout_content_sync_setup.xml.flat",
+        "source": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\src\\main\\res\\layout\\content_sync_setup.xml"
+    },
+    {
+        "merged": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_search_black_24dp.xml.flat",
+        "source": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\src\\main\\res\\drawable\\ic_search_black_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\build\\intermediates\\res\\merged\\debug\\drawable_plus.png.flat",
+        "source": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\src\\main\\res\\drawable\\plus.png"
+    },
+    {
+        "merged": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_zoterosync.png.flat",
+        "source": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\src\\main\\res\\mipmap-xhdpi\\ic_zoterosync.png"
+    },
+    {
+        "merged": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_baseline_description_black_48.png.flat",
+        "source": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\src\\main\\res\\drawable-hdpi\\baseline_description_black_48.png"
+    },
+    {
+        "merged": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\build\\intermediates\\res\\merged\\debug\\drawable_treeitem_magazinearticle.png.flat",
+        "source": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\src\\main\\res\\drawable\\treeitem_magazinearticle.png"
+    },
+    {
+        "merged": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\build\\intermediates\\res\\merged\\debug\\drawable_treesource_trash_2x.png.flat",
+        "source": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\src\\main\\res\\drawable\\treesource_trash_2x.png"
+    },
+    {
+        "merged": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\build\\intermediates\\res\\merged\\debug\\drawable_chevron_right_808080_32.png.flat",
+        "source": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\src\\main\\res\\drawable\\chevron_right_808080_32.png"
+    },
+    {
+        "merged": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\build\\intermediates\\res\\merged\\debug\\drawable_zotero_new_z_48px.png.flat",
+        "source": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\src\\main\\res\\drawable\\zotero_new_z_48px.png"
+    },
+    {
+        "merged": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\build\\intermediates\\res\\merged\\debug\\drawable_treeitem_attachment_link_2x.png.flat",
+        "source": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\src\\main\\res\\drawable\\treeitem_attachment_link_2x.png"
+    },
+    {
+        "merged": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\build\\intermediates\\res\\merged\\debug\\drawable_bell_error.png.flat",
+        "source": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\src\\main\\res\\drawable\\bell_error.png"
+    },
+    {
+        "merged": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\build\\intermediates\\res\\merged\\debug\\drawable_treeitem_audiorecording.png.flat",
+        "source": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\src\\main\\res\\drawable\\treeitem_audiorecording.png"
+    },
+    {
+        "merged": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_icon.xml.flat",
+        "source": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\src\\main\\res\\mipmap-anydpi-v26\\icon.xml"
+    },
+    {
+        "merged": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_baseline_delete_black_36.png.flat",
+        "source": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\src\\main\\res\\drawable-xxxhdpi\\baseline_delete_black_36.png"
+    },
+    {
+        "merged": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\build\\intermediates\\res\\merged\\debug\\drawable_toolbar_feed_add_2x.png.flat",
+        "source": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\src\\main\\res\\drawable\\toolbar_feed_add_2x.png"
+    },
+    {
+        "merged": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_baseline_search_white_18.png.flat",
+        "source": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\src\\main\\res\\drawable-mdpi\\baseline_search_white_18.png"
+    },
+    {
+        "merged": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_onedrive.png.flat",
+        "source": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_onedrive.png"
+    },
+    {
+        "merged": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\build\\intermediates\\res\\merged\\debug\\drawable_bullet_blue_empty.png.flat",
+        "source": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\src\\main\\res\\drawable\\bullet_blue_empty.png"
+    },
+    {
+        "merged": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\build\\intermediates\\res\\merged\\debug\\layout_zotero_list_item_adapter.xml.flat",
+        "source": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\src\\main\\res\\layout\\zotero_list_item_adapter.xml"
+    },
+    {
+        "merged": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\build\\intermediates\\res\\merged\\debug\\drawable_error_2x.png.flat",
+        "source": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\src\\main\\res\\drawable\\error_2x.png"
+    },
+    {
+        "merged": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\build\\intermediates\\res\\merged\\debug\\drawable_locate_external_viewer.png.flat",
+        "source": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\src\\main\\res\\drawable\\locate_external_viewer.png"
+    },
+    {
+        "merged": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_baseline_delete_black_36.png.flat",
+        "source": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\src\\main\\res\\drawable-xhdpi\\baseline_delete_black_36.png"
+    },
+    {
+        "merged": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\build\\intermediates\\res\\merged\\debug\\drawable_toolbar_link_add_2x.png.flat",
+        "source": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\src\\main\\res\\drawable\\toolbar_link_add_2x.png"
+    },
+    {
+        "merged": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\src\\main\\res\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\build\\intermediates\\res\\merged\\debug\\drawable_document_search_result.png.flat",
+        "source": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\src\\main\\res\\drawable\\document_search_result.png"
+    },
+    {
+        "merged": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\build\\intermediates\\res\\merged\\debug\\drawable_treesource_unfiled.png.flat",
+        "source": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\src\\main\\res\\drawable\\treesource_unfiled.png"
+    },
+    {
+        "merged": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_baseline_search_white_48.png.flat",
+        "source": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\src\\main\\res\\drawable-xhdpi\\baseline_search_white_48.png"
+    },
+    {
+        "merged": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_menu_send.xml.flat",
+        "source": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\src\\main\\res\\drawable\\ic_menu_send.xml"
+    },
+    {
+        "merged": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\build\\intermediates\\res\\merged\\debug\\drawable_treeitem_journalarticle.png.flat",
+        "source": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\src\\main\\res\\drawable\\treeitem_journalarticle.png"
+    },
+    {
+        "merged": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_baseline_search_white_24.png.flat",
+        "source": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\src\\main\\res\\drawable-xxhdpi\\baseline_search_white_24.png"
+    },
+    {
+        "merged": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_zoterosync.png.flat",
+        "source": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_zoterosync.png"
+    },
+    {
+        "merged": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\build\\intermediates\\res\\merged\\debug\\drawable_treeitem_audiorecording_2x.png.flat",
+        "source": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\src\\main\\res\\drawable\\treeitem_audiorecording_2x.png"
+    },
+    {
+        "merged": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_baseline_filter_list_white_48.png.flat",
+        "source": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\src\\main\\res\\drawable-hdpi\\baseline_filter_list_white_48.png"
+    },
+    {
+        "merged": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\build\\intermediates\\res\\merged\\debug\\drawable_toolbar_note_add.png.flat",
+        "source": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\src\\main\\res\\drawable\\toolbar_note_add.png"
+    },
+    {
+        "merged": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\build\\intermediates\\res\\merged\\debug\\drawable_treeitem_statute.png.flat",
+        "source": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\src\\main\\res\\drawable\\treeitem_statute.png"
+    },
+    {
+        "merged": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\build\\intermediates\\res\\merged\\debug\\drawable_treesource_bucket.png.flat",
+        "source": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\src\\main\\res\\drawable\\treesource_bucket.png"
+    },
+    {
+        "merged": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_baseline_description_black_36.png.flat",
+        "source": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\src\\main\\res\\drawable-hdpi\\baseline_description_black_36.png"
+    },
+    {
+        "merged": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\build\\intermediates\\res\\merged\\debug\\menu_activity_library_actionbar.xml.flat",
+        "source": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\src\\main\\res\\menu\\activity_library_actionbar.xml"
+    },
+    {
+        "merged": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_attachment_manager.xml.flat",
+        "source": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\src\\main\\res\\layout\\activity_attachment_manager.xml"
+    },
+    {
+        "merged": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\build\\intermediates\\res\\merged\\debug\\drawable_arrow_rotate_static.png.flat",
+        "source": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\src\\main\\res\\drawable\\arrow_rotate_static.png"
+    },
+    {
+        "merged": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_onedrive.png.flat",
+        "source": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\src\\main\\res\\mipmap-hdpi\\ic_onedrive.png"
+    },
+    {
+        "merged": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\build\\intermediates\\res\\merged\\debug\\drawable_treeitem_booksection_2x.png.flat",
+        "source": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\src\\main\\res\\drawable\\treeitem_booksection_2x.png"
+    },
+    {
+        "merged": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_baseline_filter_list_white_48.png.flat",
+        "source": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\src\\main\\res\\drawable-mdpi\\baseline_filter_list_white_48.png"
+    },
+    {
+        "merged": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\build\\intermediates\\res\\merged\\debug\\drawable_treesource_library.png.flat",
+        "source": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\src\\main\\res\\drawable\\treesource_library.png"
+    },
+    {
+        "merged": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\build\\intermediates\\res\\merged\\debug\\drawable_attach_2x.png.flat",
+        "source": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\src\\main\\res\\drawable\\attach_2x.png"
+    },
+    {
+        "merged": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\build\\intermediates\\res\\merged\\debug\\drawable_toolbar_collection_edit_gray.png.flat",
+        "source": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\src\\main\\res\\drawable\\toolbar_collection_edit_gray.png"
+    },
+    {
+        "merged": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\build\\intermediates\\res\\merged\\debug\\drawable_treeitem_attachment_snapshot.png.flat",
+        "source": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\src\\main\\res\\drawable\\treeitem_attachment_snapshot.png"
+    },
+    {
+        "merged": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\build\\intermediates\\res\\merged\\debug\\drawable_prefs_general.png.flat",
+        "source": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\src\\main\\res\\drawable\\prefs_general.png"
+    },
+    {
+        "merged": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_baseline_search_white_36.png.flat",
+        "source": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\src\\main\\res\\drawable-hdpi\\baseline_search_white_36.png"
+    },
+    {
+        "merged": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_baseline_filter_list_white_48.png.flat",
+        "source": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\src\\main\\res\\drawable-xxhdpi\\baseline_filter_list_white_48.png"
+    },
+    {
+        "merged": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\build\\intermediates\\res\\merged\\debug\\drawable_treeitem_manuscript.png.flat",
+        "source": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\src\\main\\res\\drawable\\treeitem_manuscript.png"
+    },
+    {
+        "merged": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_dropbox.png.flat",
+        "source": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\src\\main\\res\\mipmap-hdpi\\ic_dropbox.png"
+    },
+    {
+        "merged": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_baseline_settings_applications_white_18.png.flat",
+        "source": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\src\\main\\res\\drawable-xhdpi\\baseline_settings_applications_white_18.png"
+    },
+    {
+        "merged": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\build\\intermediates\\res\\merged\\debug\\drawable_toolbar_lookup.png.flat",
+        "source": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\src\\main\\res\\drawable\\toolbar_lookup.png"
+    },
+    {
+        "merged": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\build\\intermediates\\res\\merged\\debug\\drawable_zotero_new_z_16px.png.flat",
+        "source": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\src\\main\\res\\drawable\\zotero_new_z_16px.png"
+    },
+    {
+        "merged": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_dropbox.png.flat",
+        "source": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\src\\main\\res\\mipmap-mdpi\\ic_dropbox.png"
+    },
+    {
+        "merged": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\build\\intermediates\\res\\merged\\debug\\drawable_baseline_description_24.xml.flat",
+        "source": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\src\\main\\res\\drawable\\baseline_description_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\build\\intermediates\\res\\merged\\debug\\drawable_prefs_keys.png.flat",
+        "source": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\src\\main\\res\\drawable\\prefs_keys.png"
+    },
+    {
+        "merged": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_baseline_description_black_18.png.flat",
+        "source": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\src\\main\\res\\drawable-xxxhdpi\\baseline_description_black_18.png"
+    },
+    {
+        "merged": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\build\\intermediates\\res\\merged\\debug\\drawable_treeitem_book_2x.png.flat",
+        "source": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\src\\main\\res\\drawable\\treeitem_book_2x.png"
+    },
+    {
+        "merged": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\build\\intermediates\\res\\merged\\debug\\drawable_toolbar_feed_edit_2x.png.flat",
+        "source": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\src\\main\\res\\drawable\\toolbar_feed_edit_2x.png"
+    },
+    {
+        "merged": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\build\\intermediates\\res\\merged\\debug\\drawable_locate_view_online_2x.png.flat",
+        "source": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\src\\main\\res\\drawable\\locate_view_online_2x.png"
+    },
+    {
+        "merged": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_baseline_filter_list_white_48.png.flat",
+        "source": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\src\\main\\res\\drawable-xxxhdpi\\baseline_filter_list_white_48.png"
+    },
+    {
+        "merged": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_library.xml.flat",
+        "source": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\src\\main\\res\\layout\\activity_library.xml"
+    },
+    {
+        "merged": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\build\\intermediates\\res\\merged\\debug\\xml_searchable.xml.flat",
+        "source": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\src\\main\\res\\xml\\searchable.xml"
+    },
+    {
+        "merged": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\build\\intermediates\\res\\merged\\debug\\drawable_treeitem_webpage.png.flat",
+        "source": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\src\\main\\res\\drawable\\treeitem_webpage.png"
+    },
+    {
+        "merged": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_baseline_settings_applications_white_48.png.flat",
+        "source": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\src\\main\\res\\drawable-xxxhdpi\\baseline_settings_applications_white_48.png"
+    },
+    {
+        "merged": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_baseline_delete_black_24.png.flat",
+        "source": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\src\\main\\res\\drawable-hdpi\\baseline_delete_black_24.png"
+    },
+    {
+        "merged": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\build\\intermediates\\res\\merged\\debug\\drawable_treeitem_newspaperarticle_2x.png.flat",
+        "source": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\src\\main\\res\\drawable\\treeitem_newspaperarticle_2x.png"
+    },
+    {
+        "merged": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_dialog_alert.png.flat",
+        "source": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\src\\main\\res\\mipmap-xhdpi\\ic_dialog_alert.png"
+    },
+    {
+        "merged": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\build\\intermediates\\res\\merged\\debug\\layout_dialog_add_note.xml.flat",
+        "source": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\src\\main\\res\\layout\\dialog_add_note.xml"
+    },
+    {
+        "merged": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_baseline_search_white_24.png.flat",
+        "source": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\src\\main\\res\\drawable-xxxhdpi\\baseline_search_white_24.png"
+    },
+    {
+        "merged": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\build\\intermediates\\res\\merged\\debug\\drawable_toolbar_go_arrow_disabled.png.flat",
+        "source": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\src\\main\\res\\drawable\\toolbar_go_arrow_disabled.png"
+    },
+    {
+        "merged": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\build\\intermediates\\res\\merged\\debug\\menu_fragment_library_item_actionbar.xml.flat",
+        "source": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\src\\main\\res\\menu\\fragment_library_item_actionbar.xml"
+    },
+    {
+        "merged": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_zoterosync.png.flat",
+        "source": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\src\\main\\res\\mipmap-hdpi\\ic_zoterosync.png"
+    },
+    {
+        "merged": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\build\\intermediates\\res\\merged\\debug\\drawable_locate_external_viewer_2x.png.flat",
+        "source": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\src\\main\\res\\drawable\\locate_external_viewer_2x.png"
+    },
+    {
+        "merged": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\build\\intermediates\\res\\merged\\debug\\drawable_treesource_share.png.flat",
+        "source": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\src\\main\\res\\drawable\\treesource_share.png"
+    },
+    {
+        "merged": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\build\\intermediates\\res\\merged\\debug\\xml_backup_rules.xml.flat",
+        "source": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\src\\main\\res\\xml\\backup_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\build\\intermediates\\res\\merged\\debug\\drawable_annotation_move.png.flat",
+        "source": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\src\\main\\res\\drawable\\annotation_move.png"
+    },
+    {
+        "merged": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_baseline_settings_applications_white_18.png.flat",
+        "source": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\src\\main\\res\\drawable-mdpi\\baseline_settings_applications_white_18.png"
+    },
+    {
+        "merged": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\build\\intermediates\\res\\merged\\debug\\drawable_arrow_curve_090_left.png.flat",
+        "source": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\src\\main\\res\\drawable\\arrow_curve_090_left.png"
+    },
+    {
+        "merged": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\build\\intermediates\\res\\merged\\debug\\drawable_tag_automatic_2x.png.flat",
+        "source": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\src\\main\\res\\drawable\\tag_automatic_2x.png"
+    },
+    {
+        "merged": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\build\\intermediates\\res\\merged\\debug\\drawable_baseline_filter_list_24.xml.flat",
+        "source": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\src\\main\\res\\drawable\\baseline_filter_list_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\build\\intermediates\\res\\merged\\debug\\drawable_locate_show_file.png.flat",
+        "source": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\src\\main\\res\\drawable\\locate_show_file.png"
+    },
+    {
+        "merged": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_baseline_description_black_36.png.flat",
+        "source": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\src\\main\\res\\drawable-xxhdpi\\baseline_description_black_36.png"
+    },
+    {
+        "merged": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_baseline_delete_black_18.png.flat",
+        "source": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\src\\main\\res\\drawable-xxxhdpi\\baseline_delete_black_18.png"
+    },
+    {
+        "merged": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\build\\intermediates\\res\\merged\\debug\\drawable_treeitem_newspaperarticle.png.flat",
+        "source": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\src\\main\\res\\drawable\\treeitem_newspaperarticle.png"
+    },
+    {
+        "merged": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\build\\intermediates\\res\\merged\\debug\\drawable_annotate_collapse.png.flat",
+        "source": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\src\\main\\res\\drawable\\annotate_collapse.png"
+    },
+    {
+        "merged": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_icon.png.flat",
+        "source": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\src\\main\\res\\mipmap-xhdpi\\icon.png"
+    },
+    {
+        "merged": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\build\\intermediates\\res\\merged\\debug\\drawable_control_stop_blue_2x.png.flat",
+        "source": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\src\\main\\res\\drawable\\control_stop_blue_2x.png"
+    },
+    {
+        "merged": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\build\\intermediates\\res\\merged\\debug\\drawable_citation_down_gray.png.flat",
+        "source": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\src\\main\\res\\drawable\\citation_down_gray.png"
+    },
+    {
+        "merged": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_baseline_description_black_36.png.flat",
+        "source": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\src\\main\\res\\drawable-mdpi\\baseline_description_black_36.png"
+    },
+    {
+        "merged": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_folder_black_24dp.png.flat",
+        "source": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_folder_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\build\\intermediates\\res\\merged\\debug\\drawable_lifebuoy.png.flat",
+        "source": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\src\\main\\res\\drawable\\lifebuoy.png"
+    },
+    {
+        "merged": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\build\\intermediates\\res\\merged\\debug\\drawable_cog_2x.png.flat",
+        "source": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\src\\main\\res\\drawable\\cog_2x.png"
+    },
+    {
+        "merged": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_baseline_filter_list_white_24.png.flat",
+        "source": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\src\\main\\res\\drawable-xhdpi\\baseline_filter_list_white_24.png"
+    },
+    {
+        "merged": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\build\\intermediates\\res\\merged\\debug\\drawable_drive_network.png.flat",
+        "source": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\src\\main\\res\\drawable\\drive_network.png"
+    },
+    {
+        "merged": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\build\\intermediates\\res\\merged\\debug\\drawable_treeitem_magazinearticle_2x.png.flat",
+        "source": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\src\\main\\res\\drawable\\treeitem_magazinearticle_2x.png"
+    },
+    {
+        "merged": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_baseline_description_black_18.png.flat",
+        "source": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\src\\main\\res\\drawable-hdpi\\baseline_description_black_18.png"
+    },
+    {
+        "merged": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_arrow_downward_24px.xml.flat",
+        "source": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\src\\main\\res\\drawable\\ic_arrow_downward_24px.xml"
+    },
+    {
+        "merged": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\build\\intermediates\\res\\merged\\debug\\drawable_locate_library_lookup.png.flat",
+        "source": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\src\\main\\res\\drawable\\locate_library_lookup.png"
+    },
+    {
+        "merged": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\build\\intermediates\\res\\merged\\debug\\drawable_treeitem_tvbroadcast.png.flat",
+        "source": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\src\\main\\res\\drawable\\treeitem_tvbroadcast.png"
+    },
+    {
+        "merged": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\build\\intermediates\\res\\merged\\debug\\drawable_error.png.flat",
+        "source": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\src\\main\\res\\drawable\\error.png"
+    },
+    {
+        "merged": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\build\\intermediates\\res\\merged\\debug\\drawable_textfield_single.png.flat",
+        "source": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\src\\main\\res\\drawable\\textfield_single.png"
+    },
+    {
+        "merged": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_baseline_description_black_24.png.flat",
+        "source": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\src\\main\\res\\drawable-xhdpi\\baseline_description_black_24.png"
+    },
+    {
+        "merged": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_baseline_delete_black_48.png.flat",
+        "source": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\src\\main\\res\\drawable-xxhdpi\\baseline_delete_black_48.png"
+    },
+    {
+        "merged": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\build\\intermediates\\res\\merged\\debug\\menu_activity_library_drawer.xml.flat",
+        "source": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\src\\main\\res\\menu\\activity_library_drawer.xml"
+    },
+    {
+        "merged": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_baseline_delete_black_18.png.flat",
+        "source": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\src\\main\\res\\drawable-xhdpi\\baseline_delete_black_18.png"
+    },
+    {
+        "merged": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_baseline_settings_applications_white_36.png.flat",
+        "source": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\src\\main\\res\\drawable-xxhdpi\\baseline_settings_applications_white_36.png"
+    },
+    {
+        "merged": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\build\\intermediates\\res\\merged\\debug\\drawable_treeitem_webpage_gray_2x.png.flat",
+        "source": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\src\\main\\res\\drawable\\treeitem_webpage_gray_2x.png"
+    },
+    {
+        "merged": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_baseline_filter_list_white_18.png.flat",
+        "source": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\src\\main\\res\\drawable-hdpi\\baseline_filter_list_white_18.png"
+    },
+    {
+        "merged": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_baseline_settings_applications_white_48.png.flat",
+        "source": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\src\\main\\res\\drawable-hdpi\\baseline_settings_applications_white_48.png"
+    },
+    {
+        "merged": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\build\\intermediates\\res\\merged\\debug\\drawable_treeitem_artwork_2x.png.flat",
+        "source": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\src\\main\\res\\drawable\\treeitem_artwork_2x.png"
+    },
+    {
+        "merged": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\build\\intermediates\\res\\merged\\debug\\drawable_bookmark_pencil.png.flat",
+        "source": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\src\\main\\res\\drawable\\bookmark_pencil.png"
+    },
+    {
+        "merged": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\build\\intermediates\\res\\merged\\debug\\drawable_report_user.png.flat",
+        "source": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\src\\main\\res\\drawable\\report_user.png"
+    },
+    {
+        "merged": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\build\\intermediates\\res\\merged\\debug\\drawable_toolbar_advanced_search.png.flat",
+        "source": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\src\\main\\res\\drawable\\toolbar_advanced_search.png"
+    },
+    {
+        "merged": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_sync_setup.xml.flat",
+        "source": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\src\\main\\res\\layout\\activity_sync_setup.xml"
+    },
+    {
+        "merged": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\build\\intermediates\\res\\merged\\debug\\drawable_treeitem_forumpost.png.flat",
+        "source": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\src\\main\\res\\drawable\\treeitem_forumpost.png"
+    },
+    {
+        "merged": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_baseline_settings_applications_white_18.png.flat",
+        "source": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\src\\main\\res\\drawable-xxhdpi\\baseline_settings_applications_white_18.png"
+    },
+    {
+        "merged": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_dropbox.png.flat",
+        "source": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_dropbox.png"
+    },
+    {
+        "merged": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\build\\intermediates\\res\\merged\\debug\\drawable_tag_selector_menu_2x.png.flat",
+        "source": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\src\\main\\res\\drawable\\tag_selector_menu_2x.png"
+    },
+    {
+        "merged": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_menu_manage.xml.flat",
+        "source": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\src\\main\\res\\drawable\\ic_menu_manage.xml"
+    },
+    {
+        "merged": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\build\\intermediates\\res\\merged\\debug\\layout_content_web_davsetup.xml.flat",
+        "source": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\src\\main\\res\\layout\\content_web_davsetup.xml"
+    },
+    {
+        "merged": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\build\\intermediates\\res\\merged\\debug\\drawable_locate_show_file_2x.png.flat",
+        "source": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\src\\main\\res\\drawable\\locate_show_file_2x.png"
+    },
+    {
+        "merged": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_baseline_search_white_24.png.flat",
+        "source": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\src\\main\\res\\drawable-hdpi\\baseline_search_white_24.png"
+    },
+    {
+        "merged": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\build\\intermediates\\res\\merged\\debug\\drawable_annotate_highlight_selected.png.flat",
+        "source": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\src\\main\\res\\drawable\\annotate_highlight_selected.png"
+    },
+    {
+        "merged": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\build\\intermediates\\res\\merged\\debug\\drawable_treeitem_videorecording.png.flat",
+        "source": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\src\\main\\res\\drawable\\treeitem_videorecording.png"
+    },
+    {
+        "merged": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\build\\intermediates\\res\\merged\\debug\\drawable_annotate_highlight.png.flat",
+        "source": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\src\\main\\res\\drawable\\annotate_highlight.png"
+    },
+    {
+        "merged": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_icon.png.flat",
+        "source": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\src\\main\\res\\mipmap-xxxhdpi\\icon.png"
+    },
+    {
+        "merged": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\build\\intermediates\\res\\merged\\debug\\drawable_baseline_settings_applications_24.xml.flat",
+        "source": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\src\\main\\res\\drawable\\baseline_settings_applications_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\build\\intermediates\\res\\merged\\debug\\drawable_citation_delete_gray.png.flat",
+        "source": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\src\\main\\res\\drawable\\citation_delete_gray.png"
+    },
+    {
+        "merged": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\build\\intermediates\\res\\merged\\debug\\drawable_annotate_unhighlight.png.flat",
+        "source": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\src\\main\\res\\drawable\\annotate_unhighlight.png"
+    },
+    {
+        "merged": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\build\\intermediates\\res\\merged\\debug\\drawable_spinner_14px_2x.png.flat",
+        "source": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\src\\main\\res\\drawable\\spinner_14px_2x.png"
+    },
+    {
+        "merged": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_menu_share.xml.flat",
+        "source": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\src\\main\\res\\drawable\\ic_menu_share.xml"
+    },
+    {
+        "merged": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\build\\intermediates\\res\\merged\\debug\\drawable_bordered_layout.xml.flat",
+        "source": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\src\\main\\res\\drawable\\bordered_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_baseline_delete_black_18.png.flat",
+        "source": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\src\\main\\res\\drawable-xxhdpi\\baseline_delete_black_18.png"
+    },
+    {
+        "merged": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\build\\intermediates\\res\\merged\\debug\\drawable_toolbar_collection_delete.png.flat",
+        "source": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\src\\main\\res\\drawable\\toolbar_collection_delete.png"
+    },
+    {
+        "merged": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_menu_gallery.xml.flat",
+        "source": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\src\\main\\res\\drawable\\ic_menu_gallery.xml"
+    },
+    {
+        "merged": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\build\\intermediates\\res\\merged\\debug\\drawable_treeitem_attachment_pdf.png.flat",
+        "source": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\src\\main\\res\\drawable\\treeitem_attachment_pdf.png"
+    },
+    {
+        "merged": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\build\\intermediates\\res\\merged\\debug\\layout_layout_library.xml.flat",
+        "source": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\src\\main\\res\\layout\\layout_library.xml"
+    },
+    {
+        "merged": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_baseline_settings_applications_white_24.png.flat",
+        "source": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\src\\main\\res\\drawable-mdpi\\baseline_settings_applications_white_24.png"
+    },
+    {
+        "merged": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\build\\intermediates\\res\\merged\\debug\\drawable_treeitem_thesis.png.flat",
+        "source": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\src\\main\\res\\drawable\\treeitem_thesis.png"
+    },
+    {
+        "merged": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_baseline_description_black_48.png.flat",
+        "source": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\src\\main\\res\\drawable-xhdpi\\baseline_description_black_48.png"
+    },
+    {
+        "merged": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\build\\intermediates\\res\\merged\\debug\\drawable_chevron_left_808080_32.png.flat",
+        "source": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\src\\main\\res\\drawable\\chevron_left_808080_32.png"
+    },
+    {
+        "merged": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\build\\intermediates\\res\\merged\\debug\\drawable_djvu_icon.png.flat",
+        "source": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\src\\main\\res\\drawable\\djvu_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\build\\intermediates\\res\\merged\\debug\\drawable_toolbar_feed_edit.png.flat",
+        "source": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\src\\main\\res\\drawable\\toolbar_feed_edit.png"
+    },
+    {
+        "merged": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_icon_round.png.flat",
+        "source": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\src\\main\\res\\mipmap-xxhdpi\\icon_round.png"
+    },
+    {
+        "merged": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_menu_camera.xml.flat",
+        "source": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\src\\main\\res\\drawable\\ic_menu_camera.xml"
+    },
+    {
+        "merged": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_baseline_description_black_48.png.flat",
+        "source": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\src\\main\\res\\drawable-xxxhdpi\\baseline_description_black_48.png"
+    },
+    {
+        "merged": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\build\\intermediates\\res\\merged\\debug\\drawable_treeitem_journalarticle_2x.png.flat",
+        "source": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\src\\main\\res\\drawable\\treeitem_journalarticle_2x.png"
+    },
+    {
+        "merged": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\build\\intermediates\\res\\merged\\debug\\drawable_arrow_refresh_2x.png.flat",
+        "source": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\src\\main\\res\\drawable\\arrow_refresh_2x.png"
+    },
+    {
+        "merged": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\build\\intermediates\\res\\merged\\debug\\layout_content_zotero_api_setup.xml.flat",
+        "source": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\src\\main\\res\\layout\\content_zotero_api_setup.xml"
+    },
+    {
+        "merged": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_baseline_settings_applications_white_36.png.flat",
+        "source": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\src\\main\\res\\drawable-xhdpi\\baseline_settings_applications_white_36.png"
+    },
+    {
+        "merged": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\build\\intermediates\\res\\merged\\debug\\drawable_treeitem_attachment_web_link.png.flat",
+        "source": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\src\\main\\res\\drawable\\treeitem_attachment_web_link.png"
+    },
+    {
+        "merged": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_icon_round.xml.flat",
+        "source": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\src\\main\\res\\mipmap-anydpi-v26\\icon_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\build\\intermediates\\res\\merged\\debug\\drawable_library_add.png.flat",
+        "source": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\src\\main\\res\\drawable\\library_add.png"
+    },
+    {
+        "merged": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\build\\intermediates\\res\\merged\\debug\\drawable_treesource_feedlibrary.png.flat",
+        "source": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\src\\main\\res\\drawable\\treesource_feedlibrary.png"
+    },
+    {
+        "merged": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_baseline_delete_black_24.png.flat",
+        "source": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\src\\main\\res\\drawable-xhdpi\\baseline_delete_black_24.png"
+    },
+    {
+        "merged": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\build\\intermediates\\res\\merged\\debug\\drawable_cross.png.flat",
+        "source": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\src\\main\\res\\drawable\\cross.png"
+    },
+    {
+        "merged": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_baseline_search_white_18.png.flat",
+        "source": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\src\\main\\res\\drawable-xhdpi\\baseline_search_white_18.png"
+    },
+    {
+        "merged": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\build\\intermediates\\res\\merged\\debug\\drawable_rtfscan_link.png.flat",
+        "source": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\src\\main\\res\\drawable\\rtfscan_link.png"
+    },
+    {
+        "merged": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\build\\intermediates\\res\\merged\\debug\\drawable_treesource_collection_2x.png.flat",
+        "source": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\src\\main\\res\\drawable\\treesource_collection_2x.png"
+    },
+    {
+        "merged": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\build\\intermediates\\res\\merged\\debug\\drawable_treesource_unfiled_2x.png.flat",
+        "source": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\src\\main\\res\\drawable\\treesource_unfiled_2x.png"
+    },
+    {
+        "merged": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_baseline_filter_list_white_24.png.flat",
+        "source": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\src\\main\\res\\drawable-hdpi\\baseline_filter_list_white_24.png"
+    },
+    {
+        "merged": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\build\\intermediates\\res\\merged\\debug\\drawable_locate_view_online.png.flat",
+        "source": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\src\\main\\res\\drawable\\locate_view_online.png"
+    },
+    {
+        "merged": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\build\\intermediates\\res\\merged\\debug\\drawable_tick.png.flat",
+        "source": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\src\\main\\res\\drawable\\tick.png"
+    },
+    {
+        "merged": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\build\\intermediates\\res\\merged\\debug\\drawable_cross_script.png.flat",
+        "source": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\src\\main\\res\\drawable\\cross_script.png"
+    },
+    {
+        "merged": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_baseline_settings_applications_white_18.png.flat",
+        "source": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\src\\main\\res\\drawable-xxxhdpi\\baseline_settings_applications_white_18.png"
+    },
+    {
+        "merged": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\build\\intermediates\\res\\merged\\debug\\drawable_tag_selector_menu.png.flat",
+        "source": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\src\\main\\res\\drawable\\tag_selector_menu.png"
+    },
+    {
+        "merged": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\build\\intermediates\\res\\merged\\debug\\drawable_bullet_blue_2x.png.flat",
+        "source": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\src\\main\\res\\drawable\\bullet_blue_2x.png"
+    },
+    {
+        "merged": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\build\\intermediates\\res\\merged\\debug\\drawable_treeitem_report_2x.png.flat",
+        "source": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\src\\main\\res\\drawable\\treeitem_report_2x.png"
+    },
+    {
+        "merged": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_zoterosync_grey.png.flat",
+        "source": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_zoterosync_grey.png"
+    },
+    {
+        "merged": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\build\\intermediates\\res\\merged\\debug\\drawable_treesource_duplicates_2x.png.flat",
+        "source": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\src\\main\\res\\drawable\\treesource_duplicates_2x.png"
+    },
+    {
+        "merged": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\build\\intermediates\\res\\merged\\debug\\drawable_toolbar_link_add.png.flat",
+        "source": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\src\\main\\res\\drawable\\toolbar_link_add.png"
+    },
+    {
+        "merged": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\build\\intermediates\\res\\merged\\debug\\drawable_toolbar_collection_delete_2x.png.flat",
+        "source": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\src\\main\\res\\drawable\\toolbar_collection_delete_2x.png"
+    },
+    {
+        "merged": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\build\\intermediates\\res\\merged\\debug\\drawable_baseline_delete_24.xml.flat",
+        "source": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\src\\main\\res\\drawable\\baseline_delete_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\build\\intermediates\\res\\merged\\debug\\drawable_toolbar_go_arrow_2x.png.flat",
+        "source": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\src\\main\\res\\drawable\\toolbar_go_arrow_2x.png"
+    },
+    {
+        "merged": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_baseline_description_black_18.png.flat",
+        "source": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\src\\main\\res\\drawable-mdpi\\baseline_description_black_18.png"
+    },
+    {
+        "merged": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_drive_scaled.png.flat",
+        "source": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_drive_scaled.png"
+    },
+    {
+        "merged": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_baseline_filter_list_white_18.png.flat",
+        "source": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\src\\main\\res\\drawable-xxxhdpi\\baseline_filter_list_white_18.png"
+    },
+    {
+        "merged": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\build\\intermediates\\res\\merged\\debug\\drawable_treesource_feed_updating.png.flat",
+        "source": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\src\\main\\res\\drawable\\treesource_feed_updating.png"
+    },
+    {
+        "merged": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_baseline_description_black_36.png.flat",
+        "source": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\src\\main\\res\\drawable-xxxhdpi\\baseline_description_black_36.png"
+    },
+    {
+        "merged": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\build\\intermediates\\res\\merged\\debug\\drawable_attach.png.flat",
+        "source": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\src\\main\\res\\drawable\\attach.png"
+    },
+    {
+        "merged": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\build\\intermediates\\res\\merged\\debug\\drawable_treeitem_patent.png.flat",
+        "source": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\src\\main\\res\\drawable\\treeitem_patent.png"
+    },
+    {
+        "merged": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_zoterosync.png.flat",
+        "source": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\src\\main\\res\\mipmap-mdpi\\ic_zoterosync.png"
+    },
+    {
+        "merged": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_drive_scaled.png.flat",
+        "source": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\src\\main\\res\\mipmap-mdpi\\ic_drive_scaled.png"
+    },
+    {
+        "merged": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_baseline_delete_black_48.png.flat",
+        "source": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\src\\main\\res\\drawable-xhdpi\\baseline_delete_black_48.png"
+    },
+    {
+        "merged": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\build\\intermediates\\res\\merged\\debug\\drawable_toolbar_collection_add.png.flat",
+        "source": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\src\\main\\res\\drawable\\toolbar_collection_add.png"
+    },
+    {
+        "merged": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\build\\intermediates\\res\\merged\\debug\\drawable_treeitem_note_small.png.flat",
+        "source": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\src\\main\\res\\drawable\\treeitem_note_small.png"
+    },
+    {
+        "merged": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\build\\intermediates\\res\\merged\\debug\\drawable_annotate_add.png.flat",
+        "source": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\src\\main\\res\\drawable\\annotate_add.png"
+    },
+    {
+        "merged": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_baseline_settings_applications_white_48.png.flat",
+        "source": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\src\\main\\res\\drawable-xhdpi\\baseline_settings_applications_white_48.png"
+    },
+    {
+        "merged": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\build\\intermediates\\res\\merged\\debug\\layout_content_library.xml.flat",
+        "source": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\src\\main\\res\\layout\\content_library.xml"
+    },
+    {
+        "merged": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_onedrive.png.flat",
+        "source": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\src\\main\\res\\mipmap-xhdpi\\ic_onedrive.png"
+    },
+    {
+        "merged": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\build\\intermediates\\res\\merged\\debug\\drawable_toolbar_fullscreen_top_2x.png.flat",
+        "source": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\src\\main\\res\\drawable\\toolbar_fullscreen_top_2x.png"
+    },
+    {
+        "merged": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\build\\intermediates\\res\\merged\\debug\\layout_content_attachment_manager.xml.flat",
+        "source": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\src\\main\\res\\layout\\content_attachment_manager.xml"
+    },
+    {
+        "merged": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_baseline_settings_applications_white_24.png.flat",
+        "source": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\src\\main\\res\\drawable-hdpi\\baseline_settings_applications_white_24.png"
+    },
+    {
+        "merged": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\build\\intermediates\\res\\merged\\debug\\drawable_treeitem_attachment_pdf_2x.png.flat",
+        "source": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\src\\main\\res\\drawable\\treeitem_attachment_pdf_2x.png"
+    },
+    {
+        "merged": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\build\\intermediates\\res\\merged\\debug\\layout_settings_activity.xml.flat",
+        "source": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\src\\main\\res\\layout\\settings_activity.xml"
+    },
+    {
+        "merged": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_icon.png.flat",
+        "source": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\src\\main\\res\\mipmap-xxhdpi\\icon.png"
+    },
+    {
+        "merged": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_baseline_settings_applications_white_36.png.flat",
+        "source": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\src\\main\\res\\drawable-mdpi\\baseline_settings_applications_white_36.png"
+    },
+    {
+        "merged": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_baseline_filter_list_white_36.png.flat",
+        "source": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\src\\main\\res\\drawable-hdpi\\baseline_filter_list_white_36.png"
+    },
+    {
+        "merged": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\build\\intermediates\\res\\merged\\debug\\drawable_toolbar_collection_edit.png.flat",
+        "source": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\src\\main\\res\\drawable\\toolbar_collection_edit.png"
+    },
+    {
+        "merged": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\build\\intermediates\\res\\merged\\debug\\layout_simple_spinner_item.xml.flat",
+        "source": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\src\\main\\res\\layout\\simple_spinner_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\build\\intermediates\\res\\merged\\debug\\drawable_treeitem_attachment_web_link_2x.png.flat",
+        "source": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\src\\main\\res\\drawable\\treeitem_attachment_web_link_2x.png"
+    },
+    {
+        "merged": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\build\\intermediates\\res\\merged\\debug\\drawable_treesource_search_2x.png.flat",
+        "source": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\src\\main\\res\\drawable\\treesource_search_2x.png"
+    },
+    {
+        "merged": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_baseline_description_black_18.png.flat",
+        "source": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\src\\main\\res\\drawable-xxhdpi\\baseline_description_black_18.png"
+    },
+    {
+        "merged": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_item_attachment_entry.xml.flat",
+        "source": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\src\\main\\res\\layout\\fragment_item_attachment_entry.xml"
+    },
+    {
+        "merged": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\build\\intermediates\\res\\merged\\debug\\drawable_treeitem_note.png.flat",
+        "source": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\src\\main\\res\\drawable\\treeitem_note.png"
+    },
+    {
+        "merged": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\build\\intermediates\\res\\merged\\debug\\drawable_treeitem_report.png.flat",
+        "source": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\src\\main\\res\\drawable\\treeitem_report.png"
+    },
+    {
+        "merged": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_icon_foreground.png.flat",
+        "source": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\src\\main\\res\\mipmap-mdpi\\icon_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\build\\intermediates\\res\\merged\\debug\\drawable_annotation_grippy.png.flat",
+        "source": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\src\\main\\res\\drawable\\annotation_grippy.png"
+    },
+    {
+        "merged": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\build\\intermediates\\res\\merged\\debug\\drawable_annotate_unhighlight_selected.png.flat",
+        "source": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\src\\main\\res\\drawable\\annotate_unhighlight_selected.png"
+    },
+    {
+        "merged": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\build\\intermediates\\res\\merged\\debug\\drawable_treeitem_encyclopediaarticle.png.flat",
+        "source": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\src\\main\\res\\drawable\\treeitem_encyclopediaarticle.png"
+    },
+    {
+        "merged": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\build\\intermediates\\res\\merged\\debug\\drawable_treeitem_instantmessage_2x.png.flat",
+        "source": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\src\\main\\res\\drawable\\treeitem_instantmessage_2x.png"
+    },
+    {
+        "merged": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\build\\intermediates\\res\\merged\\debug\\drawable_edit_list_order.png.flat",
+        "source": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\src\\main\\res\\drawable\\edit_list_order.png"
+    },
+    {
+        "merged": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\build\\intermediates\\res\\merged\\debug\\drawable_treeitem.png.flat",
+        "source": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\src\\main\\res\\drawable\\treeitem.png"
+    },
+    {
+        "merged": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_icon_foreground.png.flat",
+        "source": "C:\\Users\\bitowl\\git\\Zoo-For-Zotero\\app\\src\\main\\res\\mipmap-xxxhdpi\\icon_foreground.png"
+    }
+]

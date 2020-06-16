@@ -1,0 +1,628 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\bitowl\git\Zoo-For-Zotero\app\src\main\AndroidManifest.xml:2:1-130:12
+INJECTED from C:\Users\bitowl\git\Zoo-For-Zotero\app\src\main\AndroidManifest.xml:2:1-130:12
+INJECTED from C:\Users\bitowl\git\Zoo-For-Zotero\app\src\main\AndroidManifest.xml:2:1-130:12
+INJECTED from C:\Users\bitowl\git\Zoo-For-Zotero\app\src\main\AndroidManifest.xml:2:1-130:12
+MERGED from [com.squareup.leakcanary:leakcanary-android:2.0] C:\Users\bitowl\.gradle\caches\transforms-2\files-2.1\565be46fc6c61a1e3eed46e69e2e90a6\jetified-leakcanary-android-2.0\AndroidManifest.xml:17:1-28:12
+MERGED from [com.facebook.flipper:flipper:0.30.1] C:\Users\bitowl\.gradle\caches\transforms-2\files-2.1\f0d0acc18753f20ef9e0605858be342c\jetified-flipper-0.30.1\AndroidManifest.xml:8:1-18:12
+MERGED from [com.facebook.soloader:soloader:0.8.0] C:\Users\bitowl\.gradle\caches\transforms-2\files-2.1\8074366250a40bf34a3f98a4eec77fe5\jetified-soloader-0.8.0\AndroidManifest.xml:2:1-13:12
+MERGED from [androidx.navigation:navigation-ui-ktx:2.2.1] C:\Users\bitowl\.gradle\caches\transforms-2\files-2.1\3eeb231a5ee1dc58bba64e60c3c0b003\navigation-ui-ktx-2.2.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-ui:2.2.1] C:\Users\bitowl\.gradle\caches\transforms-2\files-2.1\2e6ca9adf0e49c0f62454d8457ac4fe0\navigation-ui-2.2.1\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.material:material:1.2.0-alpha05] C:\Users\bitowl\.gradle\caches\transforms-2\files-2.1\a1da01d9ae0be6d920472293949c7e45\material-1.2.0-alpha05\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.preference:preference:1.1.0] C:\Users\bitowl\.gradle\caches\transforms-2\files-2.1\e4114ac099ca0db8829a1bf94ca9b4c2\preference-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [org.jetbrains.anko:anko:0.10.8] C:\Users\bitowl\.gradle\caches\transforms-2\files-2.1\e271c1363f717282147cd4f6f188647f\jetified-anko-0.10.8\AndroidManifest.xml:2:1-13:12
+MERGED from [org.jetbrains.anko:anko-appcompat-v7:0.10.8] C:\Users\bitowl\.gradle\caches\transforms-2\files-2.1\8498a66be14931229a910b061d26af9a\jetified-anko-appcompat-v7-0.10.8\AndroidManifest.xml:2:1-13:12
+MERGED from [org.jetbrains.anko:anko-appcompat-v7-coroutines:0.10.8] C:\Users\bitowl\.gradle\caches\transforms-2\files-2.1\202d02a82dca86e0b809f4c822500a06\jetified-anko-appcompat-v7-coroutines-0.10.8\AndroidManifest.xml:2:1-13:12
+MERGED from [org.jetbrains.anko:anko-appcompat-v7-commons:0.10.8] C:\Users\bitowl\.gradle\caches\transforms-2\files-2.1\b28ed919e61dd980624552883c6adca7\jetified-anko-appcompat-v7-commons-0.10.8\AndroidManifest.xml:2:1-13:12
+MERGED from [org.jetbrains.anko:appcompatV7-base:0.10.8] C:\Users\bitowl\.gradle\caches\transforms-2\files-2.1\10f9750c5bc4650966e99305db0b470a\jetified-appcompatV7-base-0.10.8\AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.appcompat:appcompat:1.1.0] C:\Users\bitowl\.gradle\caches\transforms-2\files-2.1\a8776343fdac874fa977e09d507079eb\appcompat-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-fragment-ktx:2.2.1] C:\Users\bitowl\.gradle\caches\transforms-2\files-2.1\c64c74501e96c0c9ca9069d135506907\navigation-fragment-ktx-2.2.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.fragment:fragment-ktx:1.2.0] C:\Users\bitowl\.gradle\caches\transforms-2\files-2.1\b0c3ecff9c2bf63ba83cb1739ea6c780\jetified-fragment-ktx-1.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-runtime-ktx:2.2.1] C:\Users\bitowl\.gradle\caches\transforms-2\files-2.1\f7e5d2f6d86922f815534e91549056fb\navigation-runtime-ktx-2.2.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.activity:activity-ktx:1.1.0] C:\Users\bitowl\.gradle\caches\transforms-2\files-2.1\f60085770aaee67539a6b32b36aef9ef\jetified-activity-ktx-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core-ktx:1.2.0] C:\Users\bitowl\.gradle\caches\transforms-2\files-2.1\9ee64b703de7c158c2438fbecadd08f5\jetified-core-ktx-1.2.0\AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\bitowl\.gradle\caches\transforms-2\files-2.1\d38c63deeca963c558fe516b1169310c\constraintlayout-1.1.3\AndroidManifest.xml:2:1-11:12
+MERGED from [com.github.mickstar:sardine-android:v0.6] C:\Users\bitowl\.gradle\caches\transforms-2\files-2.1\0ded4ff7e18316a364fbbbe0528f0ab0\jetified-sardine-android-v0.6\AndroidManifest.xml:2:1-7:12
+MERGED from [io.reactivex.rxjava2:rxandroid:2.1.1] C:\Users\bitowl\.gradle\caches\transforms-2\files-2.1\e880603b5b946291a8c547d69e81e11b\jetified-rxandroid-2.1.1\AndroidManifest.xml:15:1-20:12
+MERGED from [androidx.room:room-rxjava2:2.2.4] C:\Users\bitowl\.gradle\caches\transforms-2\files-2.1\2c6c6091c17023f0d6d390345d958f68\room-rxjava2-2.2.4\AndroidManifest.xml:17:1-24:12
+MERGED from [org.jetbrains.anko:anko-support-v4:0.10.8] C:\Users\bitowl\.gradle\caches\transforms-2\files-2.1\2444a19964313fb86333751ad6dc661d\jetified-anko-support-v4-0.10.8\AndroidManifest.xml:2:1-13:12
+MERGED from [org.jetbrains.anko:anko-support-v4-commons:0.10.8] C:\Users\bitowl\.gradle\caches\transforms-2\files-2.1\c594b09ab46715970c906eebf5651a07\jetified-anko-support-v4-commons-0.10.8\AndroidManifest.xml:2:1-13:12
+MERGED from [org.jetbrains.anko:supportV4-base:0.10.8] C:\Users\bitowl\.gradle\caches\transforms-2\files-2.1\afa9e1a380880d2c6ef14e45f843681f\jetified-supportV4-base-0.10.8\AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\bitowl\.gradle\caches\transforms-2\files-2.1\56455dcad8b7ce97853c9aa8ab965576\legacy-support-v4-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\bitowl\.gradle\caches\transforms-2\files-2.1\9dd6d4381bc362d7587bb72c651fb209\jetified-viewpager2-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\bitowl\.gradle\caches\transforms-2\files-2.1\a84de7f37ff4cf01c9267f5b6c2c3b94\recyclerview-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.gridlayout:gridlayout:1.0.0] C:\Users\bitowl\.gradle\caches\transforms-2\files-2.1\7fd1dc102d971bda0ee2ee6177dfdb85\gridlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.room:room-runtime:2.2.4] C:\Users\bitowl\.gradle\caches\transforms-2\files-2.1\a910452b83f4ad9c2916b94f7f44bc9e\room-runtime-2.2.4\AndroidManifest.xml:17:1-30:12
+MERGED from [com.facebook.stetho:stetho:1.5.1] C:\Users\bitowl\.gradle\caches\transforms-2\files-2.1\c277a3f84a6eb14b75aa414106366325\jetified-stetho-1.5.1\AndroidManifest.xml:2:1-13:12
+MERGED from [com.squareup.leakcanary:leakcanary-android-core:2.0] C:\Users\bitowl\.gradle\caches\transforms-2\files-2.1\587efce3ffe19ea1cbdf9c2d2bbd75fb\jetified-leakcanary-android-core-2.0\AndroidManifest.xml:17:1-72:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.2.0] C:\Users\bitowl\.gradle\caches\transforms-2\files-2.1\a1768896b6a622b39e1354a69168da0e\jetified-lifecycle-viewmodel-ktx-2.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [org.jetbrains.anko:anko-sqlite:0.10.8] C:\Users\bitowl\.gradle\caches\transforms-2\files-2.1\ec7604340462460e0532671e2a7ad46e\jetified-anko-sqlite-0.10.8\AndroidManifest.xml:2:1-13:12
+MERGED from [org.jetbrains.anko:anko-sdk27:0.10.8] C:\Users\bitowl\.gradle\caches\transforms-2\files-2.1\d8cf94761515f9fbf107e0f01d667c80\jetified-anko-sdk27-0.10.8\AndroidManifest.xml:2:1-13:12
+MERGED from [org.jetbrains.anko:anko-sdk27-coroutines:0.10.8] C:\Users\bitowl\.gradle\caches\transforms-2\files-2.1\7c28fb7fab37e5dfd2b0daacab74c79e\jetified-anko-sdk27-coroutines-0.10.8\AndroidManifest.xml:2:1-13:12
+MERGED from [org.jetbrains.anko:anko-commons:0.10.8] C:\Users\bitowl\.gradle\caches\transforms-2\files-2.1\0ff725fd84f2298a07012f61b6f64e55\jetified-anko-commons-0.10.8\AndroidManifest.xml:2:1-13:12
+MERGED from [org.jetbrains.anko:anko-coroutines:0.10.8] C:\Users\bitowl\.gradle\caches\transforms-2\files-2.1\39c9965dd69448370e887fe7aef41c13\jetified-anko-coroutines-0.10.8\AndroidManifest.xml:2:1-13:12
+MERGED from [com.squareup.leakcanary:leakcanary-object-watcher-android-androidx:2.0] C:\Users\bitowl\.gradle\caches\transforms-2\files-2.1\26d2d23310992f58fe7c27b63e5ea37e\jetified-leakcanary-object-watcher-android-androidx-2.0\AndroidManifest.xml:2:1-7:12
+MERGED from [com.squareup.leakcanary:leakcanary-object-watcher-android-support-fragments:2.0] C:\Users\bitowl\.gradle\caches\transforms-2\files-2.1\5eb22c81d16ee22f92ca3c8a82269556\jetified-leakcanary-object-watcher-android-support-fragments-2.0\AndroidManifest.xml:2:1-7:12
+MERGED from [com.squareup.leakcanary:leakcanary-object-watcher-android:2.0] C:\Users\bitowl\.gradle\caches\transforms-2\files-2.1\6c4dcfb69396bf14baffa446adc091c3\jetified-leakcanary-object-watcher-android-2.0\AndroidManifest.xml:2:1-14:12
+MERGED from [androidx.navigation:navigation-common-ktx:2.2.1] C:\Users\bitowl\.gradle\caches\transforms-2\files-2.1\c14573d7e3e0ba08654263b8c7ec86f6\navigation-common-ktx-2.2.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.2.0] C:\Users\bitowl\.gradle\caches\transforms-2\files-2.1\d75caeab24d259cf4a41c633b6c6ae2a\jetified-lifecycle-livedata-core-ktx-2.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.2.0] C:\Users\bitowl\.gradle\caches\transforms-2\files-2.1\c9c36a73c4d92b2af4d18c6e7c9a3cfa\jetified-lifecycle-runtime-ktx-2.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [org.jetbrains.anko:sqlite-base:0.10.8] C:\Users\bitowl\.gradle\caches\transforms-2\files-2.1\05ba844700b9c09f9538ab9560f90b69\jetified-sqlite-base-0.10.8\AndroidManifest.xml:2:1-11:12
+MERGED from [org.jetbrains.anko:platform-base:0.10.8] C:\Users\bitowl\.gradle\caches\transforms-2\files-2.1\3b617b149ee16eb574c35e78512ba47a\jetified-platform-base-0.10.8\AndroidManifest.xml:2:1-11:12
+MERGED from [org.jetbrains.anko:commons-base:0.10.8] C:\Users\bitowl\.gradle\caches\transforms-2\files-2.1\d67c0b74936a877dd6e2834338022eca\jetified-commons-base-0.10.8\AndroidManifest.xml:2:1-11:12
+MERGED from [com.facebook.fbjni:fbjni:0.0.2] C:\Users\bitowl\.gradle\caches\transforms-2\files-2.1\fead4de15f8d64a3383aceecdf8d8820\jetified-fbjni-0.0.2\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.soloader:annotation:0.8.0] C:\Users\bitowl\.gradle\caches\transforms-2\files-2.1\12b9c7d8b5349f79f9b370ebd9cecf7b\jetified-annotation-0.8.0\AndroidManifest.xml:2:1-13:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\bitowl\.gradle\caches\transforms-2\files-2.1\8a66819fa60dccc15ec8a899bee9a083\legacy-support-core-ui-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\bitowl\.gradle\caches\transforms-2\files-2.1\74ba376e5f4f34ef879a2bc253b663b3\cursoradapter-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] C:\Users\bitowl\.gradle\caches\transforms-2\files-2.1\db72437fffedc6d6e9a32ec555665f9e\jetified-appcompat-resources-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\bitowl\.gradle\caches\transforms-2\files-2.1\9492c82d98945d6a3560cdf8b6af5799\drawerlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\bitowl\.gradle\caches\transforms-2\files-2.1\139a7a702d2ebc2a699ac4bc6960f27e\coordinatorlayout-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.transition:transition:1.2.0] C:\Users\bitowl\.gradle\caches\transforms-2\files-2.1\1fc08d1fb701a9d1159038109e40ebf8\transition-1.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\bitowl\.gradle\caches\transforms-2\files-2.1\55f7ae6cd9f600a5fd4360cfb1aa720c\vectordrawable-animated-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\bitowl\.gradle\caches\transforms-2\files-2.1\e25e680e926d459eb2c19be324b11009\vectordrawable-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.media:media:1.0.0] C:\Users\bitowl\.gradle\caches\transforms-2\files-2.1\1aa3255516e320df434eba7798d8f98f\media-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\bitowl\.gradle\caches\transforms-2\files-2.1\c8249cbdf32b79a34ee05a98d232259c\legacy-support-core-utils-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.navigation:navigation-fragment:2.2.1] C:\Users\bitowl\.gradle\caches\transforms-2\files-2.1\8a471249c14cfaaa7ef9641f5335504b\navigation-fragment-2.2.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.fragment:fragment:1.2.1] C:\Users\bitowl\.gradle\caches\transforms-2\files-2.1\d11d845f6e014525a5a96b66cf9cc426\fragment-1.2.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\bitowl\.gradle\caches\transforms-2\files-2.1\5f2de48748d4e50492a35211ea4efefc\viewpager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\bitowl\.gradle\caches\transforms-2\files-2.1\11d82654c0cc474015dfbd20d7858d69\slidingpanelayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\bitowl\.gradle\caches\transforms-2\files-2.1\558ffeba563cbd8612355279e1aa2046\customview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\bitowl\.gradle\caches\transforms-2\files-2.1\e86f0abe5b3458becc57dbbb80920b2a\loader-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\bitowl\.gradle\caches\transforms-2\files-2.1\3f83881661345582f7d78514f4490a0c\swiperefreshlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\bitowl\.gradle\caches\transforms-2\files-2.1\631bdfa2a067cd4f48836193034113ee\asynclayoutinflater-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.navigation:navigation-runtime:2.2.1] C:\Users\bitowl\.gradle\caches\transforms-2\files-2.1\b4c3541f84cf7304fe583b841b2e5d35\navigation-runtime-2.2.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.activity:activity:1.1.0] C:\Users\bitowl\.gradle\caches\transforms-2\files-2.1\a24a7a6c912246e52b61a8cb65f65eb3\jetified-activity-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-common:2.2.1] C:\Users\bitowl\.gradle\caches\transforms-2\files-2.1\dc0736b243ffe1b946423ac949a114a2\navigation-common-2.2.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core:1.2.0] C:\Users\bitowl\.gradle\caches\transforms-2\files-2.1\9075dbfaab39e40f8982b36dac1019b6\core-1.2.0\AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\bitowl\.gradle\caches\transforms-2\files-2.1\4396c2f11dd7e645d9262d21ecccad75\cardview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.sqlite:sqlite-framework:2.0.1] C:\Users\bitowl\.gradle\caches\transforms-2\files-2.1\b3ee6408c3681fbd24de081a3a57da20\sqlite-framework-2.0.1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.sqlite:sqlite:2.0.1] C:\Users\bitowl\.gradle\caches\transforms-2\files-2.1\5f4c9cd9b6e98b3cceba0470981deab3\sqlite-2.0.1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\bitowl\.gradle\caches\transforms-2\files-2.1\78a913978e37b54448a1dc2429e82473\versionedparcelable-1.1.0\AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.2.0] C:\Users\bitowl\.gradle\caches\transforms-2\files-2.1\d29b82594a1639c953ac7a1646b377b0\jetified-lifecycle-viewmodel-savedstate-2.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.2.0] C:\Users\bitowl\.gradle\caches\transforms-2\files-2.1\7e4df0cd08aa50f2127ae53aa41238ca\lifecycle-viewmodel-2.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\bitowl\.gradle\caches\transforms-2\files-2.1\d2c5f4d68250b03c897d5818df81cb52\documentfile-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\bitowl\.gradle\caches\transforms-2\files-2.1\0b64644a27cbe908efdd284bc1286545\localbroadcastmanager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] C:\Users\bitowl\.gradle\caches\transforms-2\files-2.1\f950727d86cde628325d81e7d263a503\print-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\bitowl\.gradle\caches\transforms-2\files-2.1\8ba1861a037181f3766850afe0160a40\interpolator-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\bitowl\.gradle\caches\transforms-2\files-2.1\040833fe11640f1b8c4733bfce84961f\jetified-savedstate-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] C:\Users\bitowl\.gradle\caches\transforms-2\files-2.1\24d26877d60f9a9cf0f0dd26a87d5445\lifecycle-runtime-2.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\bitowl\.gradle\caches\transforms-2\files-2.1\2b76bbbf1f93cbf5dadfb1df63fad850\lifecycle-livedata-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.2.0] C:\Users\bitowl\.gradle\caches\transforms-2\files-2.1\376def708fb6281d6ba3088f080671d7\lifecycle-livedata-core-2.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\bitowl\.gradle\caches\transforms-2\files-2.1\6ba631e2a83457d93ff6835fab260e17\core-runtime-2.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.annotation:annotation-experimental:1.0.0] C:\Users\bitowl\.gradle\caches\transforms-2\files-2.1\8e41d98c289e3706528f1d38a44ae7cf\jetified-annotation-experimental-1.0.0\AndroidManifest.xml:17:1-24:12
+INJECTED from C:\Users\bitowl\git\Zoo-For-Zotero\app\src\main\AndroidManifest.xml:2:1-130:12
+INJECTED from C:\Users\bitowl\git\Zoo-For-Zotero\app\src\main\AndroidManifest.xml:2:1-130:12
+INJECTED from C:\Users\bitowl\git\Zoo-For-Zotero\app\src\main\AndroidManifest.xml:2:1-130:12
+	package
+		ADDED from C:\Users\bitowl\git\Zoo-For-Zotero\app\src\main\AndroidManifest.xml:3:5-43
+		INJECTED from C:\Users\bitowl\git\Zoo-For-Zotero\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\bitowl\git\Zoo-For-Zotero\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\bitowl\git\Zoo-For-Zotero\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\bitowl\git\Zoo-For-Zotero\app\src\main\AndroidManifest.xml:2:1-130:12
+		INJECTED from C:\Users\bitowl\git\Zoo-For-Zotero\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\bitowl\git\Zoo-For-Zotero\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\bitowl\git\Zoo-For-Zotero\app\src\main\AndroidManifest.xml:2:1-130:12
+		INJECTED from C:\Users\bitowl\git\Zoo-For-Zotero\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\bitowl\git\Zoo-For-Zotero\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from C:\Users\bitowl\git\Zoo-For-Zotero\app\src\main\AndroidManifest.xml:5:5-79
+	android:name
+		ADDED from C:\Users\bitowl\git\Zoo-For-Zotero\app\src\main\AndroidManifest.xml:5:22-76
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from C:\Users\bitowl\git\Zoo-For-Zotero\app\src\main\AndroidManifest.xml:6:5-80
+MERGED from [com.squareup.leakcanary:leakcanary-android-core:2.0] C:\Users\bitowl\.gradle\caches\transforms-2\files-2.1\587efce3ffe19ea1cbdf9c2d2bbd75fb\jetified-leakcanary-android-core-2.0\AndroidManifest.xml:23:5-80
+MERGED from [com.squareup.leakcanary:leakcanary-android-core:2.0] C:\Users\bitowl\.gradle\caches\transforms-2\files-2.1\587efce3ffe19ea1cbdf9c2d2bbd75fb\jetified-leakcanary-android-core-2.0\AndroidManifest.xml:23:5-80
+	android:name
+		ADDED from C:\Users\bitowl\git\Zoo-For-Zotero\app\src\main\AndroidManifest.xml:6:22-77
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from C:\Users\bitowl\git\Zoo-For-Zotero\app\src\main\AndroidManifest.xml:7:5-81
+MERGED from [com.squareup.leakcanary:leakcanary-android-core:2.0] C:\Users\bitowl\.gradle\caches\transforms-2\files-2.1\587efce3ffe19ea1cbdf9c2d2bbd75fb\jetified-leakcanary-android-core-2.0\AndroidManifest.xml:24:5-81
+MERGED from [com.squareup.leakcanary:leakcanary-android-core:2.0] C:\Users\bitowl\.gradle\caches\transforms-2\files-2.1\587efce3ffe19ea1cbdf9c2d2bbd75fb\jetified-leakcanary-android-core-2.0\AndroidManifest.xml:24:5-81
+	android:name
+		ADDED from C:\Users\bitowl\git\Zoo-For-Zotero\app\src\main\AndroidManifest.xml:7:22-78
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\bitowl\git\Zoo-For-Zotero\app\src\main\AndroidManifest.xml:8:5-67
+MERGED from [com.facebook.flipper:flipper:0.30.1] C:\Users\bitowl\.gradle\caches\transforms-2\files-2.1\f0d0acc18753f20ef9e0605858be342c\jetified-flipper-0.30.1\AndroidManifest.xml:15:5-67
+MERGED from [com.facebook.flipper:flipper:0.30.1] C:\Users\bitowl\.gradle\caches\transforms-2\files-2.1\f0d0acc18753f20ef9e0605858be342c\jetified-flipper-0.30.1\AndroidManifest.xml:15:5-67
+	android:name
+		ADDED from C:\Users\bitowl\git\Zoo-For-Zotero\app\src\main\AndroidManifest.xml:8:22-64
+application
+ADDED from C:\Users\bitowl\git\Zoo-For-Zotero\app\src\main\AndroidManifest.xml:10:5-128:19
+MERGED from [com.squareup.leakcanary:leakcanary-android:2.0] C:\Users\bitowl\.gradle\caches\transforms-2\files-2.1\565be46fc6c61a1e3eed46e69e2e90a6\jetified-leakcanary-android-2.0\AndroidManifest.xml:22:5-26:19
+MERGED from [com.squareup.leakcanary:leakcanary-android:2.0] C:\Users\bitowl\.gradle\caches\transforms-2\files-2.1\565be46fc6c61a1e3eed46e69e2e90a6\jetified-leakcanary-android-2.0\AndroidManifest.xml:22:5-26:19
+MERGED from [com.facebook.soloader:soloader:0.8.0] C:\Users\bitowl\.gradle\caches\transforms-2\files-2.1\8074366250a40bf34a3f98a4eec77fe5\jetified-soloader-0.8.0\AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.soloader:soloader:0.8.0] C:\Users\bitowl\.gradle\caches\transforms-2\files-2.1\8074366250a40bf34a3f98a4eec77fe5\jetified-soloader-0.8.0\AndroidManifest.xml:11:5-20
+MERGED from [com.google.android.material:material:1.2.0-alpha05] C:\Users\bitowl\.gradle\caches\transforms-2\files-2.1\a1da01d9ae0be6d920472293949c7e45\material-1.2.0-alpha05\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.2.0-alpha05] C:\Users\bitowl\.gradle\caches\transforms-2\files-2.1\a1da01d9ae0be6d920472293949c7e45\material-1.2.0-alpha05\AndroidManifest.xml:22:5-20
+MERGED from [org.jetbrains.anko:anko:0.10.8] C:\Users\bitowl\.gradle\caches\transforms-2\files-2.1\e271c1363f717282147cd4f6f188647f\jetified-anko-0.10.8\AndroidManifest.xml:11:5-20
+MERGED from [org.jetbrains.anko:anko:0.10.8] C:\Users\bitowl\.gradle\caches\transforms-2\files-2.1\e271c1363f717282147cd4f6f188647f\jetified-anko-0.10.8\AndroidManifest.xml:11:5-20
+MERGED from [org.jetbrains.anko:anko-appcompat-v7:0.10.8] C:\Users\bitowl\.gradle\caches\transforms-2\files-2.1\8498a66be14931229a910b061d26af9a\jetified-anko-appcompat-v7-0.10.8\AndroidManifest.xml:11:5-20
+MERGED from [org.jetbrains.anko:anko-appcompat-v7:0.10.8] C:\Users\bitowl\.gradle\caches\transforms-2\files-2.1\8498a66be14931229a910b061d26af9a\jetified-anko-appcompat-v7-0.10.8\AndroidManifest.xml:11:5-20
+MERGED from [org.jetbrains.anko:anko-appcompat-v7-coroutines:0.10.8] C:\Users\bitowl\.gradle\caches\transforms-2\files-2.1\202d02a82dca86e0b809f4c822500a06\jetified-anko-appcompat-v7-coroutines-0.10.8\AndroidManifest.xml:11:5-20
+MERGED from [org.jetbrains.anko:anko-appcompat-v7-coroutines:0.10.8] C:\Users\bitowl\.gradle\caches\transforms-2\files-2.1\202d02a82dca86e0b809f4c822500a06\jetified-anko-appcompat-v7-coroutines-0.10.8\AndroidManifest.xml:11:5-20
+MERGED from [org.jetbrains.anko:anko-appcompat-v7-commons:0.10.8] C:\Users\bitowl\.gradle\caches\transforms-2\files-2.1\b28ed919e61dd980624552883c6adca7\jetified-anko-appcompat-v7-commons-0.10.8\AndroidManifest.xml:11:5-20
+MERGED from [org.jetbrains.anko:anko-appcompat-v7-commons:0.10.8] C:\Users\bitowl\.gradle\caches\transforms-2\files-2.1\b28ed919e61dd980624552883c6adca7\jetified-anko-appcompat-v7-commons-0.10.8\AndroidManifest.xml:11:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\bitowl\.gradle\caches\transforms-2\files-2.1\d38c63deeca963c558fe516b1169310c\constraintlayout-1.1.3\AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\bitowl\.gradle\caches\transforms-2\files-2.1\d38c63deeca963c558fe516b1169310c\constraintlayout-1.1.3\AndroidManifest.xml:9:5-20
+MERGED from [org.jetbrains.anko:anko-support-v4:0.10.8] C:\Users\bitowl\.gradle\caches\transforms-2\files-2.1\2444a19964313fb86333751ad6dc661d\jetified-anko-support-v4-0.10.8\AndroidManifest.xml:11:5-20
+MERGED from [org.jetbrains.anko:anko-support-v4:0.10.8] C:\Users\bitowl\.gradle\caches\transforms-2\files-2.1\2444a19964313fb86333751ad6dc661d\jetified-anko-support-v4-0.10.8\AndroidManifest.xml:11:5-20
+MERGED from [org.jetbrains.anko:anko-support-v4-commons:0.10.8] C:\Users\bitowl\.gradle\caches\transforms-2\files-2.1\c594b09ab46715970c906eebf5651a07\jetified-anko-support-v4-commons-0.10.8\AndroidManifest.xml:11:5-20
+MERGED from [org.jetbrains.anko:anko-support-v4-commons:0.10.8] C:\Users\bitowl\.gradle\caches\transforms-2\files-2.1\c594b09ab46715970c906eebf5651a07\jetified-anko-support-v4-commons-0.10.8\AndroidManifest.xml:11:5-20
+MERGED from [androidx.room:room-runtime:2.2.4] C:\Users\bitowl\.gradle\caches\transforms-2\files-2.1\a910452b83f4ad9c2916b94f7f44bc9e\room-runtime-2.2.4\AndroidManifest.xml:24:5-28:19
+MERGED from [androidx.room:room-runtime:2.2.4] C:\Users\bitowl\.gradle\caches\transforms-2\files-2.1\a910452b83f4ad9c2916b94f7f44bc9e\room-runtime-2.2.4\AndroidManifest.xml:24:5-28:19
+MERGED from [com.facebook.stetho:stetho:1.5.1] C:\Users\bitowl\.gradle\caches\transforms-2\files-2.1\c277a3f84a6eb14b75aa414106366325\jetified-stetho-1.5.1\AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.stetho:stetho:1.5.1] C:\Users\bitowl\.gradle\caches\transforms-2\files-2.1\c277a3f84a6eb14b75aa414106366325\jetified-stetho-1.5.1\AndroidManifest.xml:11:5-20
+MERGED from [com.squareup.leakcanary:leakcanary-android-core:2.0] C:\Users\bitowl\.gradle\caches\transforms-2\files-2.1\587efce3ffe19ea1cbdf9c2d2bbd75fb\jetified-leakcanary-android-core-2.0\AndroidManifest.xml:28:5-70:19
+MERGED from [com.squareup.leakcanary:leakcanary-android-core:2.0] C:\Users\bitowl\.gradle\caches\transforms-2\files-2.1\587efce3ffe19ea1cbdf9c2d2bbd75fb\jetified-leakcanary-android-core-2.0\AndroidManifest.xml:28:5-70:19
+MERGED from [org.jetbrains.anko:anko-sqlite:0.10.8] C:\Users\bitowl\.gradle\caches\transforms-2\files-2.1\ec7604340462460e0532671e2a7ad46e\jetified-anko-sqlite-0.10.8\AndroidManifest.xml:11:5-20
+MERGED from [org.jetbrains.anko:anko-sqlite:0.10.8] C:\Users\bitowl\.gradle\caches\transforms-2\files-2.1\ec7604340462460e0532671e2a7ad46e\jetified-anko-sqlite-0.10.8\AndroidManifest.xml:11:5-20
+MERGED from [org.jetbrains.anko:anko-sdk27:0.10.8] C:\Users\bitowl\.gradle\caches\transforms-2\files-2.1\d8cf94761515f9fbf107e0f01d667c80\jetified-anko-sdk27-0.10.8\AndroidManifest.xml:11:5-20
+MERGED from [org.jetbrains.anko:anko-sdk27:0.10.8] C:\Users\bitowl\.gradle\caches\transforms-2\files-2.1\d8cf94761515f9fbf107e0f01d667c80\jetified-anko-sdk27-0.10.8\AndroidManifest.xml:11:5-20
+MERGED from [org.jetbrains.anko:anko-sdk27-coroutines:0.10.8] C:\Users\bitowl\.gradle\caches\transforms-2\files-2.1\7c28fb7fab37e5dfd2b0daacab74c79e\jetified-anko-sdk27-coroutines-0.10.8\AndroidManifest.xml:11:5-20
+MERGED from [org.jetbrains.anko:anko-sdk27-coroutines:0.10.8] C:\Users\bitowl\.gradle\caches\transforms-2\files-2.1\7c28fb7fab37e5dfd2b0daacab74c79e\jetified-anko-sdk27-coroutines-0.10.8\AndroidManifest.xml:11:5-20
+MERGED from [org.jetbrains.anko:anko-commons:0.10.8] C:\Users\bitowl\.gradle\caches\transforms-2\files-2.1\0ff725fd84f2298a07012f61b6f64e55\jetified-anko-commons-0.10.8\AndroidManifest.xml:11:5-20
+MERGED from [org.jetbrains.anko:anko-commons:0.10.8] C:\Users\bitowl\.gradle\caches\transforms-2\files-2.1\0ff725fd84f2298a07012f61b6f64e55\jetified-anko-commons-0.10.8\AndroidManifest.xml:11:5-20
+MERGED from [org.jetbrains.anko:anko-coroutines:0.10.8] C:\Users\bitowl\.gradle\caches\transforms-2\files-2.1\39c9965dd69448370e887fe7aef41c13\jetified-anko-coroutines-0.10.8\AndroidManifest.xml:11:5-20
+MERGED from [org.jetbrains.anko:anko-coroutines:0.10.8] C:\Users\bitowl\.gradle\caches\transforms-2\files-2.1\39c9965dd69448370e887fe7aef41c13\jetified-anko-coroutines-0.10.8\AndroidManifest.xml:11:5-20
+MERGED from [com.squareup.leakcanary:leakcanary-object-watcher-android:2.0] C:\Users\bitowl\.gradle\caches\transforms-2\files-2.1\6c4dcfb69396bf14baffa446adc091c3\jetified-leakcanary-object-watcher-android-2.0\AndroidManifest.xml:7:5-12:19
+MERGED from [com.squareup.leakcanary:leakcanary-object-watcher-android:2.0] C:\Users\bitowl\.gradle\caches\transforms-2\files-2.1\6c4dcfb69396bf14baffa446adc091c3\jetified-leakcanary-object-watcher-android-2.0\AndroidManifest.xml:7:5-12:19
+MERGED from [com.facebook.soloader:annotation:0.8.0] C:\Users\bitowl\.gradle\caches\transforms-2\files-2.1\12b9c7d8b5349f79f9b370ebd9cecf7b\jetified-annotation-0.8.0\AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.soloader:annotation:0.8.0] C:\Users\bitowl\.gradle\caches\transforms-2\files-2.1\12b9c7d8b5349f79f9b370ebd9cecf7b\jetified-annotation-0.8.0\AndroidManifest.xml:11:5-20
+MERGED from [androidx.core:core:1.2.0] C:\Users\bitowl\.gradle\caches\transforms-2\files-2.1\9075dbfaab39e40f8982b36dac1019b6\core-1.2.0\AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.2.0] C:\Users\bitowl\.gradle\caches\transforms-2\files-2.1\9075dbfaab39e40f8982b36dac1019b6\core-1.2.0\AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\bitowl\.gradle\caches\transforms-2\files-2.1\78a913978e37b54448a1dc2429e82473\versionedparcelable-1.1.0\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\bitowl\.gradle\caches\transforms-2\files-2.1\78a913978e37b54448a1dc2429e82473\versionedparcelable-1.1.0\AndroidManifest.xml:24:5-25:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.2.0] C:\Users\bitowl\.gradle\caches\transforms-2\files-2.1\9075dbfaab39e40f8982b36dac1019b6\core-1.2.0\AndroidManifest.xml:24:18-86
+	android:supportsRtl
+		ADDED from C:\Users\bitowl\git\Zoo-For-Zotero\app\src\main\AndroidManifest.xml:17:9-35
+	android:label
+		ADDED from C:\Users\bitowl\git\Zoo-For-Zotero\app\src\main\AndroidManifest.xml:15:9-41
+	android:fullBackupContent
+		ADDED from C:\Users\bitowl\git\Zoo-For-Zotero\app\src\main\AndroidManifest.xml:13:9-54
+	android:roundIcon
+		ADDED from C:\Users\bitowl\git\Zoo-For-Zotero\app\src\main\AndroidManifest.xml:16:9-47
+	android:largeHeap
+		ADDED from C:\Users\bitowl\git\Zoo-For-Zotero\app\src\main\AndroidManifest.xml:20:9-33
+	android:icon
+		ADDED from C:\Users\bitowl\git\Zoo-For-Zotero\app\src\main\AndroidManifest.xml:14:9-36
+	android:allowBackup
+		ADDED from C:\Users\bitowl\git\Zoo-For-Zotero\app\src\main\AndroidManifest.xml:12:9-35
+	android:theme
+		ADDED from C:\Users\bitowl\git\Zoo-For-Zotero\app\src\main\AndroidManifest.xml:18:9-40
+	android:usesCleartextTraffic
+		ADDED from C:\Users\bitowl\git\Zoo-For-Zotero\app\src\main\AndroidManifest.xml:19:9-44
+	android:name
+		ADDED from C:\Users\bitowl\git\Zoo-For-Zotero\app\src\main\AndroidManifest.xml:11:9-48
+activity#com.mickstarify.zooforzotero.AttachmentManager.AttachmentManager
+ADDED from C:\Users\bitowl\git\Zoo-For-Zotero\app\src\main\AndroidManifest.xml:21:9-29:20
+	android:parentActivityName
+		ADDED from C:\Users\bitowl\git\Zoo-For-Zotero\app\src\main\AndroidManifest.xml:24:13-74
+	android:label
+		ADDED from C:\Users\bitowl\git\Zoo-For-Zotero\app\src\main\AndroidManifest.xml:23:13-70
+	android:theme
+		ADDED from C:\Users\bitowl\git\Zoo-For-Zotero\app\src\main\AndroidManifest.xml:25:13-56
+	android:name
+		ADDED from C:\Users\bitowl\git\Zoo-For-Zotero\app\src\main\AndroidManifest.xml:22:13-64
+meta-data#android.support.PARENT_ACTIVITY
+ADDED from C:\Users\bitowl\git\Zoo-For-Zotero\app\src\main\AndroidManifest.xml:26:13-28:96
+	android:value
+		ADDED from C:\Users\bitowl\git\Zoo-For-Zotero\app\src\main\AndroidManifest.xml:28:17-93
+	android:name
+		ADDED from C:\Users\bitowl\git\Zoo-For-Zotero\app\src\main\AndroidManifest.xml:27:17-63
+activity#com.mickstarify.zooforzotero.LibraryActivity.WebDAV.WebDAVSetup
+ADDED from C:\Users\bitowl\git\Zoo-For-Zotero\app\src\main\AndroidManifest.xml:30:9-38:20
+	android:parentActivityName
+		ADDED from C:\Users\bitowl\git\Zoo-For-Zotero\app\src\main\AndroidManifest.xml:33:13-74
+	android:label
+		ADDED from C:\Users\bitowl\git\Zoo-For-Zotero\app\src\main\AndroidManifest.xml:32:13-64
+	android:theme
+		ADDED from C:\Users\bitowl\git\Zoo-For-Zotero\app\src\main\AndroidManifest.xml:34:13-56
+	android:name
+		ADDED from C:\Users\bitowl\git\Zoo-For-Zotero\app\src\main\AndroidManifest.xml:31:13-63
+activity#com.mickstarify.zooforzotero.SettingsActivity
+ADDED from C:\Users\bitowl\git\Zoo-For-Zotero\app\src\main\AndroidManifest.xml:39:9-46:20
+	android:parentActivityName
+		ADDED from C:\Users\bitowl\git\Zoo-For-Zotero\app\src\main\AndroidManifest.xml:42:13-74
+	android:label
+		ADDED from C:\Users\bitowl\git\Zoo-For-Zotero\app\src\main\AndroidManifest.xml:41:13-60
+	android:name
+		ADDED from C:\Users\bitowl\git\Zoo-For-Zotero\app\src\main\AndroidManifest.xml:40:13-45
+uses-library#org.apache.http.legacy
+ADDED from C:\Users\bitowl\git\Zoo-For-Zotero\app\src\main\AndroidManifest.xml:48:9-50:40
+	android:required
+		ADDED from C:\Users\bitowl\git\Zoo-For-Zotero\app\src\main\AndroidManifest.xml:50:13-37
+	android:name
+		ADDED from C:\Users\bitowl\git\Zoo-For-Zotero\app\src\main\AndroidManifest.xml:49:13-50
+meta-data#android.app.default_searchable
+ADDED from C:\Users\bitowl\git\Zoo-For-Zotero\app\src\main\AndroidManifest.xml:52:9-54:70
+	android:value
+		ADDED from C:\Users\bitowl\git\Zoo-For-Zotero\app\src\main\AndroidManifest.xml:54:13-67
+	android:name
+		ADDED from C:\Users\bitowl\git\Zoo-For-Zotero\app\src\main\AndroidManifest.xml:53:13-58
+activity#com.mickstarify.zooforzotero.LibraryActivity.SearchResultsActivity
+ADDED from C:\Users\bitowl\git\Zoo-For-Zotero\app\src\main\AndroidManifest.xml:56:9-66:20
+	android:launchMode
+		ADDED from C:\Users\bitowl\git\Zoo-For-Zotero\app\src\main\AndroidManifest.xml:58:13-43
+	android:name
+		ADDED from C:\Users\bitowl\git\Zoo-For-Zotero\app\src\main\AndroidManifest.xml:57:13-66
+intent-filter#action:name:android.intent.action.SEARCH
+ADDED from C:\Users\bitowl\git\Zoo-For-Zotero\app\src\main\AndroidManifest.xml:59:13-61:29
+action#android.intent.action.SEARCH
+ADDED from C:\Users\bitowl\git\Zoo-For-Zotero\app\src\main\AndroidManifest.xml:60:17-71
+	android:name
+		ADDED from C:\Users\bitowl\git\Zoo-For-Zotero\app\src\main\AndroidManifest.xml:60:25-68
+meta-data#android.app.searchable
+ADDED from C:\Users\bitowl\git\Zoo-For-Zotero\app\src\main\AndroidManifest.xml:63:13-65:54
+	android:resource
+		ADDED from C:\Users\bitowl\git\Zoo-For-Zotero\app\src\main\AndroidManifest.xml:65:17-51
+	android:name
+		ADDED from C:\Users\bitowl\git\Zoo-For-Zotero\app\src\main\AndroidManifest.xml:64:17-54
+activity#com.mickstarify.zooforzotero.LibraryActivity.LibraryActivity
+ADDED from C:\Users\bitowl\git\Zoo-For-Zotero\app\src\main\AndroidManifest.xml:67:9-81:20
+	android:label
+		ADDED from C:\Users\bitowl\git\Zoo-For-Zotero\app\src\main\AndroidManifest.xml:69:13-59
+	android:launchMode
+		ADDED from C:\Users\bitowl\git\Zoo-For-Zotero\app\src\main\AndroidManifest.xml:70:13-48
+	android:theme
+		ADDED from C:\Users\bitowl\git\Zoo-For-Zotero\app\src\main\AndroidManifest.xml:71:13-56
+	android:name
+		ADDED from C:\Users\bitowl\git\Zoo-For-Zotero\app\src\main\AndroidManifest.xml:68:13-60
+intent-filter#action:name:com.mickstarify.zooforzotero.intent.action.LIBRARY_FILTER_INTENT+category:name:android.intent.category.DEFAULT
+ADDED from C:\Users\bitowl\git\Zoo-For-Zotero\app\src\main\AndroidManifest.xml:76:13-80:29
+action#com.mickstarify.zooforzotero.intent.action.LIBRARY_FILTER_INTENT
+ADDED from C:\Users\bitowl\git\Zoo-For-Zotero\app\src\main\AndroidManifest.xml:77:17-107
+	android:name
+		ADDED from C:\Users\bitowl\git\Zoo-For-Zotero\app\src\main\AndroidManifest.xml:77:25-104
+category#android.intent.category.DEFAULT
+ADDED from C:\Users\bitowl\git\Zoo-For-Zotero\app\src\main\AndroidManifest.xml:79:17-76
+	android:name
+		ADDED from C:\Users\bitowl\git\Zoo-For-Zotero\app\src\main\AndroidManifest.xml:79:27-73
+activity#com.mickstarify.zooforzotero.SyncSetup.ZoteroAPISetup.ZoteroAPISetup
+ADDED from C:\Users\bitowl\git\Zoo-For-Zotero\app\src\main\AndroidManifest.xml:82:9-102:20
+	android:parentActivityName
+		ADDED from C:\Users\bitowl\git\Zoo-For-Zotero\app\src\main\AndroidManifest.xml:86:13-66
+	android:label
+		ADDED from C:\Users\bitowl\git\Zoo-For-Zotero\app\src\main\AndroidManifest.xml:84:13-68
+	android:launchMode
+		ADDED from C:\Users\bitowl\git\Zoo-For-Zotero\app\src\main\AndroidManifest.xml:85:13-48
+	android:theme
+		ADDED from C:\Users\bitowl\git\Zoo-For-Zotero\app\src\main\AndroidManifest.xml:87:13-56
+	android:name
+		ADDED from C:\Users\bitowl\git\Zoo-For-Zotero\app\src\main\AndroidManifest.xml:83:13-68
+intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.BROWSABLE+category:name:android.intent.category.DEFAULT+data:host:oauth_callback+data:scheme:zooforzotero
+ADDED from C:\Users\bitowl\git\Zoo-For-Zotero\app\src\main\AndroidManifest.xml:92:13-101:29
+action#android.intent.action.VIEW
+ADDED from C:\Users\bitowl\git\Zoo-For-Zotero\app\src\main\AndroidManifest.xml:93:17-69
+	android:name
+		ADDED from C:\Users\bitowl\git\Zoo-For-Zotero\app\src\main\AndroidManifest.xml:93:25-66
+category#android.intent.category.BROWSABLE
+ADDED from C:\Users\bitowl\git\Zoo-For-Zotero\app\src\main\AndroidManifest.xml:96:17-78
+	android:name
+		ADDED from C:\Users\bitowl\git\Zoo-For-Zotero\app\src\main\AndroidManifest.xml:96:27-75
+data
+ADDED from C:\Users\bitowl\git\Zoo-For-Zotero\app\src\main\AndroidManifest.xml:98:17-100:53
+	android:host
+		ADDED from C:\Users\bitowl\git\Zoo-For-Zotero\app\src\main\AndroidManifest.xml:99:21-50
+	android:scheme
+		ADDED from C:\Users\bitowl\git\Zoo-For-Zotero\app\src\main\AndroidManifest.xml:100:21-50
+activity#com.mickstarify.zooforzotero.SyncSetup.SyncSetupView
+ADDED from C:\Users\bitowl\git\Zoo-For-Zotero\app\src\main\AndroidManifest.xml:103:9-106:59
+	android:label
+		ADDED from C:\Users\bitowl\git\Zoo-For-Zotero\app\src\main\AndroidManifest.xml:105:13-62
+	android:theme
+		ADDED from C:\Users\bitowl\git\Zoo-For-Zotero\app\src\main\AndroidManifest.xml:106:13-56
+	android:name
+		ADDED from C:\Users\bitowl\git\Zoo-For-Zotero\app\src\main\AndroidManifest.xml:104:13-52
+activity#com.mickstarify.zooforzotero.MainActivity
+ADDED from C:\Users\bitowl\git\Zoo-For-Zotero\app\src\main\AndroidManifest.xml:107:9-113:20
+	android:name
+		ADDED from C:\Users\bitowl\git\Zoo-For-Zotero\app\src\main\AndroidManifest.xml:107:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\bitowl\git\Zoo-For-Zotero\app\src\main\AndroidManifest.xml:108:13-112:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\bitowl\git\Zoo-For-Zotero\app\src\main\AndroidManifest.xml:109:17-69
+	android:name
+		ADDED from C:\Users\bitowl\git\Zoo-For-Zotero\app\src\main\AndroidManifest.xml:109:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\bitowl\git\Zoo-For-Zotero\app\src\main\AndroidManifest.xml:111:17-77
+	android:name
+		ADDED from C:\Users\bitowl\git\Zoo-For-Zotero\app\src\main\AndroidManifest.xml:111:27-74
+provider#androidx.core.content.FileProvider
+ADDED from C:\Users\bitowl\git\Zoo-For-Zotero\app\src\main\AndroidManifest.xml:115:9-123:20
+	android:grantUriPermissions
+		ADDED from C:\Users\bitowl\git\Zoo-For-Zotero\app\src\main\AndroidManifest.xml:119:13-47
+	android:authorities
+		ADDED from C:\Users\bitowl\git\Zoo-For-Zotero\app\src\main\AndroidManifest.xml:117:13-76
+	android:exported
+		ADDED from C:\Users\bitowl\git\Zoo-For-Zotero\app\src\main\AndroidManifest.xml:118:13-37
+	android:name
+		ADDED from C:\Users\bitowl\git\Zoo-For-Zotero\app\src\main\AndroidManifest.xml:116:13-62
+meta-data#android.support.FILE_PROVIDER_PATHS
+ADDED from C:\Users\bitowl\git\Zoo-For-Zotero\app\src\main\AndroidManifest.xml:120:13-122:54
+	android:resource
+		ADDED from C:\Users\bitowl\git\Zoo-For-Zotero\app\src\main\AndroidManifest.xml:122:17-51
+	android:name
+		ADDED from C:\Users\bitowl\git\Zoo-For-Zotero\app\src\main\AndroidManifest.xml:121:17-67
+activity#com.facebook.flipper.android.diagnostics.FlipperDiagnosticActivity
+ADDED from C:\Users\bitowl\git\Zoo-For-Zotero\app\src\main\AndroidManifest.xml:125:9-127:39
+	android:exported
+		ADDED from C:\Users\bitowl\git\Zoo-For-Zotero\app\src\main\AndroidManifest.xml:127:13-36
+	android:name
+		ADDED from C:\Users\bitowl\git\Zoo-For-Zotero\app\src\main\AndroidManifest.xml:126:13-94
+uses-sdk
+INJECTED from C:\Users\bitowl\git\Zoo-For-Zotero\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\bitowl\git\Zoo-For-Zotero\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\bitowl\git\Zoo-For-Zotero\app\src\main\AndroidManifest.xml
+MERGED from [com.squareup.leakcanary:leakcanary-android:2.0] C:\Users\bitowl\.gradle\caches\transforms-2\files-2.1\565be46fc6c61a1e3eed46e69e2e90a6\jetified-leakcanary-android-2.0\AndroidManifest.xml:20:5-44
+MERGED from [com.squareup.leakcanary:leakcanary-android:2.0] C:\Users\bitowl\.gradle\caches\transforms-2\files-2.1\565be46fc6c61a1e3eed46e69e2e90a6\jetified-leakcanary-android-2.0\AndroidManifest.xml:20:5-44
+MERGED from [com.facebook.flipper:flipper:0.30.1] C:\Users\bitowl\.gradle\caches\transforms-2\files-2.1\f0d0acc18753f20ef9e0605858be342c\jetified-flipper-0.30.1\AndroidManifest.xml:11:5-13:41
+MERGED from [com.facebook.flipper:flipper:0.30.1] C:\Users\bitowl\.gradle\caches\transforms-2\files-2.1\f0d0acc18753f20ef9e0605858be342c\jetified-flipper-0.30.1\AndroidManifest.xml:11:5-13:41
+MERGED from [com.facebook.soloader:soloader:0.8.0] C:\Users\bitowl\.gradle\caches\transforms-2\files-2.1\8074366250a40bf34a3f98a4eec77fe5\jetified-soloader-0.8.0\AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.soloader:soloader:0.8.0] C:\Users\bitowl\.gradle\caches\transforms-2\files-2.1\8074366250a40bf34a3f98a4eec77fe5\jetified-soloader-0.8.0\AndroidManifest.xml:7:5-9:41
+MERGED from [androidx.navigation:navigation-ui-ktx:2.2.1] C:\Users\bitowl\.gradle\caches\transforms-2\files-2.1\3eeb231a5ee1dc58bba64e60c3c0b003\navigation-ui-ktx-2.2.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-ui-ktx:2.2.1] C:\Users\bitowl\.gradle\caches\transforms-2\files-2.1\3eeb231a5ee1dc58bba64e60c3c0b003\navigation-ui-ktx-2.2.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-ui:2.2.1] C:\Users\bitowl\.gradle\caches\transforms-2\files-2.1\2e6ca9adf0e49c0f62454d8457ac4fe0\navigation-ui-2.2.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-ui:2.2.1] C:\Users\bitowl\.gradle\caches\transforms-2\files-2.1\2e6ca9adf0e49c0f62454d8457ac4fe0\navigation-ui-2.2.1\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.material:material:1.2.0-alpha05] C:\Users\bitowl\.gradle\caches\transforms-2\files-2.1\a1da01d9ae0be6d920472293949c7e45\material-1.2.0-alpha05\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.2.0-alpha05] C:\Users\bitowl\.gradle\caches\transforms-2\files-2.1\a1da01d9ae0be6d920472293949c7e45\material-1.2.0-alpha05\AndroidManifest.xml:20:5-44
+MERGED from [androidx.preference:preference:1.1.0] C:\Users\bitowl\.gradle\caches\transforms-2\files-2.1\e4114ac099ca0db8829a1bf94ca9b4c2\preference-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.preference:preference:1.1.0] C:\Users\bitowl\.gradle\caches\transforms-2\files-2.1\e4114ac099ca0db8829a1bf94ca9b4c2\preference-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [org.jetbrains.anko:anko:0.10.8] C:\Users\bitowl\.gradle\caches\transforms-2\files-2.1\e271c1363f717282147cd4f6f188647f\jetified-anko-0.10.8\AndroidManifest.xml:7:5-9:41
+MERGED from [org.jetbrains.anko:anko:0.10.8] C:\Users\bitowl\.gradle\caches\transforms-2\files-2.1\e271c1363f717282147cd4f6f188647f\jetified-anko-0.10.8\AndroidManifest.xml:7:5-9:41
+MERGED from [org.jetbrains.anko:anko-appcompat-v7:0.10.8] C:\Users\bitowl\.gradle\caches\transforms-2\files-2.1\8498a66be14931229a910b061d26af9a\jetified-anko-appcompat-v7-0.10.8\AndroidManifest.xml:7:5-9:41
+MERGED from [org.jetbrains.anko:anko-appcompat-v7:0.10.8] C:\Users\bitowl\.gradle\caches\transforms-2\files-2.1\8498a66be14931229a910b061d26af9a\jetified-anko-appcompat-v7-0.10.8\AndroidManifest.xml:7:5-9:41
+MERGED from [org.jetbrains.anko:anko-appcompat-v7-coroutines:0.10.8] C:\Users\bitowl\.gradle\caches\transforms-2\files-2.1\202d02a82dca86e0b809f4c822500a06\jetified-anko-appcompat-v7-coroutines-0.10.8\AndroidManifest.xml:7:5-9:41
+MERGED from [org.jetbrains.anko:anko-appcompat-v7-coroutines:0.10.8] C:\Users\bitowl\.gradle\caches\transforms-2\files-2.1\202d02a82dca86e0b809f4c822500a06\jetified-anko-appcompat-v7-coroutines-0.10.8\AndroidManifest.xml:7:5-9:41
+MERGED from [org.jetbrains.anko:anko-appcompat-v7-commons:0.10.8] C:\Users\bitowl\.gradle\caches\transforms-2\files-2.1\b28ed919e61dd980624552883c6adca7\jetified-anko-appcompat-v7-commons-0.10.8\AndroidManifest.xml:7:5-9:41
+MERGED from [org.jetbrains.anko:anko-appcompat-v7-commons:0.10.8] C:\Users\bitowl\.gradle\caches\transforms-2\files-2.1\b28ed919e61dd980624552883c6adca7\jetified-anko-appcompat-v7-commons-0.10.8\AndroidManifest.xml:7:5-9:41
+MERGED from [org.jetbrains.anko:appcompatV7-base:0.10.8] C:\Users\bitowl\.gradle\caches\transforms-2\files-2.1\10f9750c5bc4650966e99305db0b470a\jetified-appcompatV7-base-0.10.8\AndroidManifest.xml:7:5-9:41
+MERGED from [org.jetbrains.anko:appcompatV7-base:0.10.8] C:\Users\bitowl\.gradle\caches\transforms-2\files-2.1\10f9750c5bc4650966e99305db0b470a\jetified-appcompatV7-base-0.10.8\AndroidManifest.xml:7:5-9:41
+MERGED from [androidx.appcompat:appcompat:1.1.0] C:\Users\bitowl\.gradle\caches\transforms-2\files-2.1\a8776343fdac874fa977e09d507079eb\appcompat-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.1.0] C:\Users\bitowl\.gradle\caches\transforms-2\files-2.1\a8776343fdac874fa977e09d507079eb\appcompat-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-fragment-ktx:2.2.1] C:\Users\bitowl\.gradle\caches\transforms-2\files-2.1\c64c74501e96c0c9ca9069d135506907\navigation-fragment-ktx-2.2.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-fragment-ktx:2.2.1] C:\Users\bitowl\.gradle\caches\transforms-2\files-2.1\c64c74501e96c0c9ca9069d135506907\navigation-fragment-ktx-2.2.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment-ktx:1.2.0] C:\Users\bitowl\.gradle\caches\transforms-2\files-2.1\b0c3ecff9c2bf63ba83cb1739ea6c780\jetified-fragment-ktx-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment-ktx:1.2.0] C:\Users\bitowl\.gradle\caches\transforms-2\files-2.1\b0c3ecff9c2bf63ba83cb1739ea6c780\jetified-fragment-ktx-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-runtime-ktx:2.2.1] C:\Users\bitowl\.gradle\caches\transforms-2\files-2.1\f7e5d2f6d86922f815534e91549056fb\navigation-runtime-ktx-2.2.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-runtime-ktx:2.2.1] C:\Users\bitowl\.gradle\caches\transforms-2\files-2.1\f7e5d2f6d86922f815534e91549056fb\navigation-runtime-ktx-2.2.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity-ktx:1.1.0] C:\Users\bitowl\.gradle\caches\transforms-2\files-2.1\f60085770aaee67539a6b32b36aef9ef\jetified-activity-ktx-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity-ktx:1.1.0] C:\Users\bitowl\.gradle\caches\transforms-2\files-2.1\f60085770aaee67539a6b32b36aef9ef\jetified-activity-ktx-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core-ktx:1.2.0] C:\Users\bitowl\.gradle\caches\transforms-2\files-2.1\9ee64b703de7c158c2438fbecadd08f5\jetified-core-ktx-1.2.0\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.core:core-ktx:1.2.0] C:\Users\bitowl\.gradle\caches\transforms-2\files-2.1\9ee64b703de7c158c2438fbecadd08f5\jetified-core-ktx-1.2.0\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\bitowl\.gradle\caches\transforms-2\files-2.1\d38c63deeca963c558fe516b1169310c\constraintlayout-1.1.3\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\bitowl\.gradle\caches\transforms-2\files-2.1\d38c63deeca963c558fe516b1169310c\constraintlayout-1.1.3\AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.mickstar:sardine-android:v0.6] C:\Users\bitowl\.gradle\caches\transforms-2\files-2.1\0ded4ff7e18316a364fbbbe0528f0ab0\jetified-sardine-android-v0.6\AndroidManifest.xml:5:5-44
+MERGED from [com.github.mickstar:sardine-android:v0.6] C:\Users\bitowl\.gradle\caches\transforms-2\files-2.1\0ded4ff7e18316a364fbbbe0528f0ab0\jetified-sardine-android-v0.6\AndroidManifest.xml:5:5-44
+MERGED from [io.reactivex.rxjava2:rxandroid:2.1.1] C:\Users\bitowl\.gradle\caches\transforms-2\files-2.1\e880603b5b946291a8c547d69e81e11b\jetified-rxandroid-2.1.1\AndroidManifest.xml:18:5-43
+MERGED from [io.reactivex.rxjava2:rxandroid:2.1.1] C:\Users\bitowl\.gradle\caches\transforms-2\files-2.1\e880603b5b946291a8c547d69e81e11b\jetified-rxandroid-2.1.1\AndroidManifest.xml:18:5-43
+MERGED from [androidx.room:room-rxjava2:2.2.4] C:\Users\bitowl\.gradle\caches\transforms-2\files-2.1\2c6c6091c17023f0d6d390345d958f68\room-rxjava2-2.2.4\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.room:room-rxjava2:2.2.4] C:\Users\bitowl\.gradle\caches\transforms-2\files-2.1\2c6c6091c17023f0d6d390345d958f68\room-rxjava2-2.2.4\AndroidManifest.xml:20:5-22:41
+MERGED from [org.jetbrains.anko:anko-support-v4:0.10.8] C:\Users\bitowl\.gradle\caches\transforms-2\files-2.1\2444a19964313fb86333751ad6dc661d\jetified-anko-support-v4-0.10.8\AndroidManifest.xml:7:5-9:41
+MERGED from [org.jetbrains.anko:anko-support-v4:0.10.8] C:\Users\bitowl\.gradle\caches\transforms-2\files-2.1\2444a19964313fb86333751ad6dc661d\jetified-anko-support-v4-0.10.8\AndroidManifest.xml:7:5-9:41
+MERGED from [org.jetbrains.anko:anko-support-v4-commons:0.10.8] C:\Users\bitowl\.gradle\caches\transforms-2\files-2.1\c594b09ab46715970c906eebf5651a07\jetified-anko-support-v4-commons-0.10.8\AndroidManifest.xml:7:5-9:41
+MERGED from [org.jetbrains.anko:anko-support-v4-commons:0.10.8] C:\Users\bitowl\.gradle\caches\transforms-2\files-2.1\c594b09ab46715970c906eebf5651a07\jetified-anko-support-v4-commons-0.10.8\AndroidManifest.xml:7:5-9:41
+MERGED from [org.jetbrains.anko:supportV4-base:0.10.8] C:\Users\bitowl\.gradle\caches\transforms-2\files-2.1\afa9e1a380880d2c6ef14e45f843681f\jetified-supportV4-base-0.10.8\AndroidManifest.xml:7:5-9:41
+MERGED from [org.jetbrains.anko:supportV4-base:0.10.8] C:\Users\bitowl\.gradle\caches\transforms-2\files-2.1\afa9e1a380880d2c6ef14e45f843681f\jetified-supportV4-base-0.10.8\AndroidManifest.xml:7:5-9:41
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\bitowl\.gradle\caches\transforms-2\files-2.1\56455dcad8b7ce97853c9aa8ab965576\legacy-support-v4-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\bitowl\.gradle\caches\transforms-2\files-2.1\56455dcad8b7ce97853c9aa8ab965576\legacy-support-v4-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\bitowl\.gradle\caches\transforms-2\files-2.1\9dd6d4381bc362d7587bb72c651fb209\jetified-viewpager2-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\bitowl\.gradle\caches\transforms-2\files-2.1\9dd6d4381bc362d7587bb72c651fb209\jetified-viewpager2-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\bitowl\.gradle\caches\transforms-2\files-2.1\a84de7f37ff4cf01c9267f5b6c2c3b94\recyclerview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\bitowl\.gradle\caches\transforms-2\files-2.1\a84de7f37ff4cf01c9267f5b6c2c3b94\recyclerview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.gridlayout:gridlayout:1.0.0] C:\Users\bitowl\.gradle\caches\transforms-2\files-2.1\7fd1dc102d971bda0ee2ee6177dfdb85\gridlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.gridlayout:gridlayout:1.0.0] C:\Users\bitowl\.gradle\caches\transforms-2\files-2.1\7fd1dc102d971bda0ee2ee6177dfdb85\gridlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.room:room-runtime:2.2.4] C:\Users\bitowl\.gradle\caches\transforms-2\files-2.1\a910452b83f4ad9c2916b94f7f44bc9e\room-runtime-2.2.4\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.room:room-runtime:2.2.4] C:\Users\bitowl\.gradle\caches\transforms-2\files-2.1\a910452b83f4ad9c2916b94f7f44bc9e\room-runtime-2.2.4\AndroidManifest.xml:20:5-22:41
+MERGED from [com.facebook.stetho:stetho:1.5.1] C:\Users\bitowl\.gradle\caches\transforms-2\files-2.1\c277a3f84a6eb14b75aa414106366325\jetified-stetho-1.5.1\AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.stetho:stetho:1.5.1] C:\Users\bitowl\.gradle\caches\transforms-2\files-2.1\c277a3f84a6eb14b75aa414106366325\jetified-stetho-1.5.1\AndroidManifest.xml:7:5-9:41
+MERGED from [com.squareup.leakcanary:leakcanary-android-core:2.0] C:\Users\bitowl\.gradle\caches\transforms-2\files-2.1\587efce3ffe19ea1cbdf9c2d2bbd75fb\jetified-leakcanary-android-core-2.0\AndroidManifest.xml:20:5-44
+MERGED from [com.squareup.leakcanary:leakcanary-android-core:2.0] C:\Users\bitowl\.gradle\caches\transforms-2\files-2.1\587efce3ffe19ea1cbdf9c2d2bbd75fb\jetified-leakcanary-android-core-2.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.2.0] C:\Users\bitowl\.gradle\caches\transforms-2\files-2.1\a1768896b6a622b39e1354a69168da0e\jetified-lifecycle-viewmodel-ktx-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.2.0] C:\Users\bitowl\.gradle\caches\transforms-2\files-2.1\a1768896b6a622b39e1354a69168da0e\jetified-lifecycle-viewmodel-ktx-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [org.jetbrains.anko:anko-sqlite:0.10.8] C:\Users\bitowl\.gradle\caches\transforms-2\files-2.1\ec7604340462460e0532671e2a7ad46e\jetified-anko-sqlite-0.10.8\AndroidManifest.xml:7:5-9:41
+MERGED from [org.jetbrains.anko:anko-sqlite:0.10.8] C:\Users\bitowl\.gradle\caches\transforms-2\files-2.1\ec7604340462460e0532671e2a7ad46e\jetified-anko-sqlite-0.10.8\AndroidManifest.xml:7:5-9:41
+MERGED from [org.jetbrains.anko:anko-sdk27:0.10.8] C:\Users\bitowl\.gradle\caches\transforms-2\files-2.1\d8cf94761515f9fbf107e0f01d667c80\jetified-anko-sdk27-0.10.8\AndroidManifest.xml:7:5-9:41
+MERGED from [org.jetbrains.anko:anko-sdk27:0.10.8] C:\Users\bitowl\.gradle\caches\transforms-2\files-2.1\d8cf94761515f9fbf107e0f01d667c80\jetified-anko-sdk27-0.10.8\AndroidManifest.xml:7:5-9:41
+MERGED from [org.jetbrains.anko:anko-sdk27-coroutines:0.10.8] C:\Users\bitowl\.gradle\caches\transforms-2\files-2.1\7c28fb7fab37e5dfd2b0daacab74c79e\jetified-anko-sdk27-coroutines-0.10.8\AndroidManifest.xml:7:5-9:41
+MERGED from [org.jetbrains.anko:anko-sdk27-coroutines:0.10.8] C:\Users\bitowl\.gradle\caches\transforms-2\files-2.1\7c28fb7fab37e5dfd2b0daacab74c79e\jetified-anko-sdk27-coroutines-0.10.8\AndroidManifest.xml:7:5-9:41
+MERGED from [org.jetbrains.anko:anko-commons:0.10.8] C:\Users\bitowl\.gradle\caches\transforms-2\files-2.1\0ff725fd84f2298a07012f61b6f64e55\jetified-anko-commons-0.10.8\AndroidManifest.xml:7:5-9:41
+MERGED from [org.jetbrains.anko:anko-commons:0.10.8] C:\Users\bitowl\.gradle\caches\transforms-2\files-2.1\0ff725fd84f2298a07012f61b6f64e55\jetified-anko-commons-0.10.8\AndroidManifest.xml:7:5-9:41
+MERGED from [org.jetbrains.anko:anko-coroutines:0.10.8] C:\Users\bitowl\.gradle\caches\transforms-2\files-2.1\39c9965dd69448370e887fe7aef41c13\jetified-anko-coroutines-0.10.8\AndroidManifest.xml:7:5-9:41
+MERGED from [org.jetbrains.anko:anko-coroutines:0.10.8] C:\Users\bitowl\.gradle\caches\transforms-2\files-2.1\39c9965dd69448370e887fe7aef41c13\jetified-anko-coroutines-0.10.8\AndroidManifest.xml:7:5-9:41
+MERGED from [com.squareup.leakcanary:leakcanary-object-watcher-android-androidx:2.0] C:\Users\bitowl\.gradle\caches\transforms-2\files-2.1\26d2d23310992f58fe7c27b63e5ea37e\jetified-leakcanary-object-watcher-android-androidx-2.0\AndroidManifest.xml:5:5-44
+MERGED from [com.squareup.leakcanary:leakcanary-object-watcher-android-androidx:2.0] C:\Users\bitowl\.gradle\caches\transforms-2\files-2.1\26d2d23310992f58fe7c27b63e5ea37e\jetified-leakcanary-object-watcher-android-androidx-2.0\AndroidManifest.xml:5:5-44
+MERGED from [com.squareup.leakcanary:leakcanary-object-watcher-android-support-fragments:2.0] C:\Users\bitowl\.gradle\caches\transforms-2\files-2.1\5eb22c81d16ee22f92ca3c8a82269556\jetified-leakcanary-object-watcher-android-support-fragments-2.0\AndroidManifest.xml:5:5-44
+MERGED from [com.squareup.leakcanary:leakcanary-object-watcher-android-support-fragments:2.0] C:\Users\bitowl\.gradle\caches\transforms-2\files-2.1\5eb22c81d16ee22f92ca3c8a82269556\jetified-leakcanary-object-watcher-android-support-fragments-2.0\AndroidManifest.xml:5:5-44
+MERGED from [com.squareup.leakcanary:leakcanary-object-watcher-android:2.0] C:\Users\bitowl\.gradle\caches\transforms-2\files-2.1\6c4dcfb69396bf14baffa446adc091c3\jetified-leakcanary-object-watcher-android-2.0\AndroidManifest.xml:5:5-44
+MERGED from [com.squareup.leakcanary:leakcanary-object-watcher-android:2.0] C:\Users\bitowl\.gradle\caches\transforms-2\files-2.1\6c4dcfb69396bf14baffa446adc091c3\jetified-leakcanary-object-watcher-android-2.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.navigation:navigation-common-ktx:2.2.1] C:\Users\bitowl\.gradle\caches\transforms-2\files-2.1\c14573d7e3e0ba08654263b8c7ec86f6\navigation-common-ktx-2.2.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-common-ktx:2.2.1] C:\Users\bitowl\.gradle\caches\transforms-2\files-2.1\c14573d7e3e0ba08654263b8c7ec86f6\navigation-common-ktx-2.2.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.2.0] C:\Users\bitowl\.gradle\caches\transforms-2\files-2.1\d75caeab24d259cf4a41c633b6c6ae2a\jetified-lifecycle-livedata-core-ktx-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.2.0] C:\Users\bitowl\.gradle\caches\transforms-2\files-2.1\d75caeab24d259cf4a41c633b6c6ae2a\jetified-lifecycle-livedata-core-ktx-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.2.0] C:\Users\bitowl\.gradle\caches\transforms-2\files-2.1\c9c36a73c4d92b2af4d18c6e7c9a3cfa\jetified-lifecycle-runtime-ktx-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.2.0] C:\Users\bitowl\.gradle\caches\transforms-2\files-2.1\c9c36a73c4d92b2af4d18c6e7c9a3cfa\jetified-lifecycle-runtime-ktx-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [org.jetbrains.anko:sqlite-base:0.10.8] C:\Users\bitowl\.gradle\caches\transforms-2\files-2.1\05ba844700b9c09f9538ab9560f90b69\jetified-sqlite-base-0.10.8\AndroidManifest.xml:7:5-9:41
+MERGED from [org.jetbrains.anko:sqlite-base:0.10.8] C:\Users\bitowl\.gradle\caches\transforms-2\files-2.1\05ba844700b9c09f9538ab9560f90b69\jetified-sqlite-base-0.10.8\AndroidManifest.xml:7:5-9:41
+MERGED from [org.jetbrains.anko:platform-base:0.10.8] C:\Users\bitowl\.gradle\caches\transforms-2\files-2.1\3b617b149ee16eb574c35e78512ba47a\jetified-platform-base-0.10.8\AndroidManifest.xml:7:5-9:41
+MERGED from [org.jetbrains.anko:platform-base:0.10.8] C:\Users\bitowl\.gradle\caches\transforms-2\files-2.1\3b617b149ee16eb574c35e78512ba47a\jetified-platform-base-0.10.8\AndroidManifest.xml:7:5-9:41
+MERGED from [org.jetbrains.anko:commons-base:0.10.8] C:\Users\bitowl\.gradle\caches\transforms-2\files-2.1\d67c0b74936a877dd6e2834338022eca\jetified-commons-base-0.10.8\AndroidManifest.xml:7:5-9:41
+MERGED from [org.jetbrains.anko:commons-base:0.10.8] C:\Users\bitowl\.gradle\caches\transforms-2\files-2.1\d67c0b74936a877dd6e2834338022eca\jetified-commons-base-0.10.8\AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.fbjni:fbjni:0.0.2] C:\Users\bitowl\.gradle\caches\transforms-2\files-2.1\fead4de15f8d64a3383aceecdf8d8820\jetified-fbjni-0.0.2\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fbjni:fbjni:0.0.2] C:\Users\bitowl\.gradle\caches\transforms-2\files-2.1\fead4de15f8d64a3383aceecdf8d8820\jetified-fbjni-0.0.2\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.soloader:annotation:0.8.0] C:\Users\bitowl\.gradle\caches\transforms-2\files-2.1\12b9c7d8b5349f79f9b370ebd9cecf7b\jetified-annotation-0.8.0\AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.soloader:annotation:0.8.0] C:\Users\bitowl\.gradle\caches\transforms-2\files-2.1\12b9c7d8b5349f79f9b370ebd9cecf7b\jetified-annotation-0.8.0\AndroidManifest.xml:7:5-9:41
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\bitowl\.gradle\caches\transforms-2\files-2.1\8a66819fa60dccc15ec8a899bee9a083\legacy-support-core-ui-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\bitowl\.gradle\caches\transforms-2\files-2.1\8a66819fa60dccc15ec8a899bee9a083\legacy-support-core-ui-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\bitowl\.gradle\caches\transforms-2\files-2.1\74ba376e5f4f34ef879a2bc253b663b3\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\bitowl\.gradle\caches\transforms-2\files-2.1\74ba376e5f4f34ef879a2bc253b663b3\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] C:\Users\bitowl\.gradle\caches\transforms-2\files-2.1\db72437fffedc6d6e9a32ec555665f9e\jetified-appcompat-resources-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] C:\Users\bitowl\.gradle\caches\transforms-2\files-2.1\db72437fffedc6d6e9a32ec555665f9e\jetified-appcompat-resources-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\bitowl\.gradle\caches\transforms-2\files-2.1\9492c82d98945d6a3560cdf8b6af5799\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\bitowl\.gradle\caches\transforms-2\files-2.1\9492c82d98945d6a3560cdf8b6af5799\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\bitowl\.gradle\caches\transforms-2\files-2.1\139a7a702d2ebc2a699ac4bc6960f27e\coordinatorlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\bitowl\.gradle\caches\transforms-2\files-2.1\139a7a702d2ebc2a699ac4bc6960f27e\coordinatorlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] C:\Users\bitowl\.gradle\caches\transforms-2\files-2.1\1fc08d1fb701a9d1159038109e40ebf8\transition-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] C:\Users\bitowl\.gradle\caches\transforms-2\files-2.1\1fc08d1fb701a9d1159038109e40ebf8\transition-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\bitowl\.gradle\caches\transforms-2\files-2.1\55f7ae6cd9f600a5fd4360cfb1aa720c\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\bitowl\.gradle\caches\transforms-2\files-2.1\55f7ae6cd9f600a5fd4360cfb1aa720c\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\bitowl\.gradle\caches\transforms-2\files-2.1\e25e680e926d459eb2c19be324b11009\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\bitowl\.gradle\caches\transforms-2\files-2.1\e25e680e926d459eb2c19be324b11009\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.media:media:1.0.0] C:\Users\bitowl\.gradle\caches\transforms-2\files-2.1\1aa3255516e320df434eba7798d8f98f\media-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] C:\Users\bitowl\.gradle\caches\transforms-2\files-2.1\1aa3255516e320df434eba7798d8f98f\media-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\bitowl\.gradle\caches\transforms-2\files-2.1\c8249cbdf32b79a34ee05a98d232259c\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\bitowl\.gradle\caches\transforms-2\files-2.1\c8249cbdf32b79a34ee05a98d232259c\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-fragment:2.2.1] C:\Users\bitowl\.gradle\caches\transforms-2\files-2.1\8a471249c14cfaaa7ef9641f5335504b\navigation-fragment-2.2.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-fragment:2.2.1] C:\Users\bitowl\.gradle\caches\transforms-2\files-2.1\8a471249c14cfaaa7ef9641f5335504b\navigation-fragment-2.2.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.2.1] C:\Users\bitowl\.gradle\caches\transforms-2\files-2.1\d11d845f6e014525a5a96b66cf9cc426\fragment-1.2.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.2.1] C:\Users\bitowl\.gradle\caches\transforms-2\files-2.1\d11d845f6e014525a5a96b66cf9cc426\fragment-1.2.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\bitowl\.gradle\caches\transforms-2\files-2.1\5f2de48748d4e50492a35211ea4efefc\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\bitowl\.gradle\caches\transforms-2\files-2.1\5f2de48748d4e50492a35211ea4efefc\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\bitowl\.gradle\caches\transforms-2\files-2.1\11d82654c0cc474015dfbd20d7858d69\slidingpanelayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\bitowl\.gradle\caches\transforms-2\files-2.1\11d82654c0cc474015dfbd20d7858d69\slidingpanelayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\bitowl\.gradle\caches\transforms-2\files-2.1\558ffeba563cbd8612355279e1aa2046\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\bitowl\.gradle\caches\transforms-2\files-2.1\558ffeba563cbd8612355279e1aa2046\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\bitowl\.gradle\caches\transforms-2\files-2.1\e86f0abe5b3458becc57dbbb80920b2a\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\bitowl\.gradle\caches\transforms-2\files-2.1\e86f0abe5b3458becc57dbbb80920b2a\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\bitowl\.gradle\caches\transforms-2\files-2.1\3f83881661345582f7d78514f4490a0c\swiperefreshlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\bitowl\.gradle\caches\transforms-2\files-2.1\3f83881661345582f7d78514f4490a0c\swiperefreshlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\bitowl\.gradle\caches\transforms-2\files-2.1\631bdfa2a067cd4f48836193034113ee\asynclayoutinflater-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\bitowl\.gradle\caches\transforms-2\files-2.1\631bdfa2a067cd4f48836193034113ee\asynclayoutinflater-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-runtime:2.2.1] C:\Users\bitowl\.gradle\caches\transforms-2\files-2.1\b4c3541f84cf7304fe583b841b2e5d35\navigation-runtime-2.2.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-runtime:2.2.1] C:\Users\bitowl\.gradle\caches\transforms-2\files-2.1\b4c3541f84cf7304fe583b841b2e5d35\navigation-runtime-2.2.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.1.0] C:\Users\bitowl\.gradle\caches\transforms-2\files-2.1\a24a7a6c912246e52b61a8cb65f65eb3\jetified-activity-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.1.0] C:\Users\bitowl\.gradle\caches\transforms-2\files-2.1\a24a7a6c912246e52b61a8cb65f65eb3\jetified-activity-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-common:2.2.1] C:\Users\bitowl\.gradle\caches\transforms-2\files-2.1\dc0736b243ffe1b946423ac949a114a2\navigation-common-2.2.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-common:2.2.1] C:\Users\bitowl\.gradle\caches\transforms-2\files-2.1\dc0736b243ffe1b946423ac949a114a2\navigation-common-2.2.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.2.0] C:\Users\bitowl\.gradle\caches\transforms-2\files-2.1\9075dbfaab39e40f8982b36dac1019b6\core-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.2.0] C:\Users\bitowl\.gradle\caches\transforms-2\files-2.1\9075dbfaab39e40f8982b36dac1019b6\core-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\bitowl\.gradle\caches\transforms-2\files-2.1\4396c2f11dd7e645d9262d21ecccad75\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\bitowl\.gradle\caches\transforms-2\files-2.1\4396c2f11dd7e645d9262d21ecccad75\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.sqlite:sqlite-framework:2.0.1] C:\Users\bitowl\.gradle\caches\transforms-2\files-2.1\b3ee6408c3681fbd24de081a3a57da20\sqlite-framework-2.0.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.sqlite:sqlite-framework:2.0.1] C:\Users\bitowl\.gradle\caches\transforms-2\files-2.1\b3ee6408c3681fbd24de081a3a57da20\sqlite-framework-2.0.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.sqlite:sqlite:2.0.1] C:\Users\bitowl\.gradle\caches\transforms-2\files-2.1\5f4c9cd9b6e98b3cceba0470981deab3\sqlite-2.0.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.sqlite:sqlite:2.0.1] C:\Users\bitowl\.gradle\caches\transforms-2\files-2.1\5f4c9cd9b6e98b3cceba0470981deab3\sqlite-2.0.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\bitowl\.gradle\caches\transforms-2\files-2.1\78a913978e37b54448a1dc2429e82473\versionedparcelable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\bitowl\.gradle\caches\transforms-2\files-2.1\78a913978e37b54448a1dc2429e82473\versionedparcelable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.2.0] C:\Users\bitowl\.gradle\caches\transforms-2\files-2.1\d29b82594a1639c953ac7a1646b377b0\jetified-lifecycle-viewmodel-savedstate-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.2.0] C:\Users\bitowl\.gradle\caches\transforms-2\files-2.1\d29b82594a1639c953ac7a1646b377b0\jetified-lifecycle-viewmodel-savedstate-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.2.0] C:\Users\bitowl\.gradle\caches\transforms-2\files-2.1\7e4df0cd08aa50f2127ae53aa41238ca\lifecycle-viewmodel-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.2.0] C:\Users\bitowl\.gradle\caches\transforms-2\files-2.1\7e4df0cd08aa50f2127ae53aa41238ca\lifecycle-viewmodel-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\bitowl\.gradle\caches\transforms-2\files-2.1\d2c5f4d68250b03c897d5818df81cb52\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\bitowl\.gradle\caches\transforms-2\files-2.1\d2c5f4d68250b03c897d5818df81cb52\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\bitowl\.gradle\caches\transforms-2\files-2.1\0b64644a27cbe908efdd284bc1286545\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\bitowl\.gradle\caches\transforms-2\files-2.1\0b64644a27cbe908efdd284bc1286545\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\bitowl\.gradle\caches\transforms-2\files-2.1\f950727d86cde628325d81e7d263a503\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\bitowl\.gradle\caches\transforms-2\files-2.1\f950727d86cde628325d81e7d263a503\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\bitowl\.gradle\caches\transforms-2\files-2.1\8ba1861a037181f3766850afe0160a40\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\bitowl\.gradle\caches\transforms-2\files-2.1\8ba1861a037181f3766850afe0160a40\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\bitowl\.gradle\caches\transforms-2\files-2.1\040833fe11640f1b8c4733bfce84961f\jetified-savedstate-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\bitowl\.gradle\caches\transforms-2\files-2.1\040833fe11640f1b8c4733bfce84961f\jetified-savedstate-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] C:\Users\bitowl\.gradle\caches\transforms-2\files-2.1\24d26877d60f9a9cf0f0dd26a87d5445\lifecycle-runtime-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] C:\Users\bitowl\.gradle\caches\transforms-2\files-2.1\24d26877d60f9a9cf0f0dd26a87d5445\lifecycle-runtime-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\bitowl\.gradle\caches\transforms-2\files-2.1\2b76bbbf1f93cbf5dadfb1df63fad850\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\bitowl\.gradle\caches\transforms-2\files-2.1\2b76bbbf1f93cbf5dadfb1df63fad850\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.2.0] C:\Users\bitowl\.gradle\caches\transforms-2\files-2.1\376def708fb6281d6ba3088f080671d7\lifecycle-livedata-core-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.2.0] C:\Users\bitowl\.gradle\caches\transforms-2\files-2.1\376def708fb6281d6ba3088f080671d7\lifecycle-livedata-core-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\bitowl\.gradle\caches\transforms-2\files-2.1\6ba631e2a83457d93ff6835fab260e17\core-runtime-2.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\bitowl\.gradle\caches\transforms-2\files-2.1\6ba631e2a83457d93ff6835fab260e17\core-runtime-2.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.annotation:annotation-experimental:1.0.0] C:\Users\bitowl\.gradle\caches\transforms-2\files-2.1\8e41d98c289e3706528f1d38a44ae7cf\jetified-annotation-experimental-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.annotation:annotation-experimental:1.0.0] C:\Users\bitowl\.gradle\caches\transforms-2\files-2.1\8e41d98c289e3706528f1d38a44ae7cf\jetified-annotation-experimental-1.0.0\AndroidManifest.xml:20:5-22:41
+INJECTED from C:\Users\bitowl\git\Zoo-For-Zotero\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\bitowl\git\Zoo-For-Zotero\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\bitowl\git\Zoo-For-Zotero\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\bitowl\git\Zoo-For-Zotero\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\bitowl\git\Zoo-For-Zotero\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\bitowl\git\Zoo-For-Zotero\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\bitowl\git\Zoo-For-Zotero\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\bitowl\git\Zoo-For-Zotero\app\src\main\AndroidManifest.xml
+service#leakcanary.internal.HeapAnalyzerService
+ADDED from [com.squareup.leakcanary:leakcanary-android:2.0] C:\Users\bitowl\.gradle\caches\transforms-2\files-2.1\565be46fc6c61a1e3eed46e69e2e90a6\jetified-leakcanary-android-2.0\AndroidManifest.xml:23:9-25:40
+	android:exported
+		ADDED from [com.squareup.leakcanary:leakcanary-android:2.0] C:\Users\bitowl\.gradle\caches\transforms-2\files-2.1\565be46fc6c61a1e3eed46e69e2e90a6\jetified-leakcanary-android-2.0\AndroidManifest.xml:25:13-37
+	android:name
+		ADDED from [com.squareup.leakcanary:leakcanary-android:2.0] C:\Users\bitowl\.gradle\caches\transforms-2\files-2.1\565be46fc6c61a1e3eed46e69e2e90a6\jetified-leakcanary-android-2.0\AndroidManifest.xml:24:13-67
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from [com.facebook.flipper:flipper:0.30.1] C:\Users\bitowl\.gradle\caches\transforms-2\files-2.1\f0d0acc18753f20ef9e0605858be342c\jetified-flipper-0.30.1\AndroidManifest.xml:16:5-76
+	android:name
+		ADDED from [com.facebook.flipper:flipper:0.30.1] C:\Users\bitowl\.gradle\caches\transforms-2\files-2.1\f0d0acc18753f20ef9e0605858be342c\jetified-flipper-0.30.1\AndroidManifest.xml:16:22-73
+service#androidx.room.MultiInstanceInvalidationService
+ADDED from [androidx.room:room-runtime:2.2.4] C:\Users\bitowl\.gradle\caches\transforms-2\files-2.1\a910452b83f4ad9c2916b94f7f44bc9e\room-runtime-2.2.4\AndroidManifest.xml:25:9-27:40
+	android:exported
+		ADDED from [androidx.room:room-runtime:2.2.4] C:\Users\bitowl\.gradle\caches\transforms-2\files-2.1\a910452b83f4ad9c2916b94f7f44bc9e\room-runtime-2.2.4\AndroidManifest.xml:27:13-37
+	android:name
+		ADDED from [androidx.room:room-runtime:2.2.4] C:\Users\bitowl\.gradle\caches\transforms-2\files-2.1\a910452b83f4ad9c2916b94f7f44bc9e\room-runtime-2.2.4\AndroidManifest.xml:26:13-74
+uses-permission#android.permission.FOREGROUND_SERVICE
+ADDED from [com.squareup.leakcanary:leakcanary-android-core:2.0] C:\Users\bitowl\.gradle\caches\transforms-2\files-2.1\587efce3ffe19ea1cbdf9c2d2bbd75fb\jetified-leakcanary-android-core-2.0\AndroidManifest.xml:26:5-77
+	android:name
+		ADDED from [com.squareup.leakcanary:leakcanary-android-core:2.0] C:\Users\bitowl\.gradle\caches\transforms-2\files-2.1\587efce3ffe19ea1cbdf9c2d2bbd75fb\jetified-leakcanary-android-core-2.0\AndroidManifest.xml:26:22-74
+provider#leakcanary.internal.LeakCanaryFileProvider
+ADDED from [com.squareup.leakcanary:leakcanary-android-core:2.0] C:\Users\bitowl\.gradle\caches\transforms-2\files-2.1\587efce3ffe19ea1cbdf9c2d2bbd75fb\jetified-leakcanary-android-core-2.0\AndroidManifest.xml:29:9-37:20
+	android:grantUriPermissions
+		ADDED from [com.squareup.leakcanary:leakcanary-android-core:2.0] C:\Users\bitowl\.gradle\caches\transforms-2\files-2.1\587efce3ffe19ea1cbdf9c2d2bbd75fb\jetified-leakcanary-android-core-2.0\AndroidManifest.xml:33:13-47
+	android:authorities
+		ADDED from [com.squareup.leakcanary:leakcanary-android-core:2.0] C:\Users\bitowl\.gradle\caches\transforms-2\files-2.1\587efce3ffe19ea1cbdf9c2d2bbd75fb\jetified-leakcanary-android-core-2.0\AndroidManifest.xml:31:13-88
+	android:exported
+		ADDED from [com.squareup.leakcanary:leakcanary-android-core:2.0] C:\Users\bitowl\.gradle\caches\transforms-2\files-2.1\587efce3ffe19ea1cbdf9c2d2bbd75fb\jetified-leakcanary-android-core-2.0\AndroidManifest.xml:32:13-37
+	android:name
+		ADDED from [com.squareup.leakcanary:leakcanary-android-core:2.0] C:\Users\bitowl\.gradle\caches\transforms-2\files-2.1\587efce3ffe19ea1cbdf9c2d2bbd75fb\jetified-leakcanary-android-core-2.0\AndroidManifest.xml:30:13-70
+activity#leakcanary.internal.activity.LeakActivity
+ADDED from [com.squareup.leakcanary:leakcanary-android-core:2.0] C:\Users\bitowl\.gradle\caches\transforms-2\files-2.1\587efce3ffe19ea1cbdf9c2d2bbd75fb\jetified-leakcanary-android-core-2.0\AndroidManifest.xml:39:9-44:66
+	android:label
+		ADDED from [com.squareup.leakcanary:leakcanary-android-core:2.0] C:\Users\bitowl\.gradle\caches\transforms-2\files-2.1\587efce3ffe19ea1cbdf9c2d2bbd75fb\jetified-leakcanary-android-core-2.0\AndroidManifest.xml:42:13-71
+	android:icon
+		ADDED from [com.squareup.leakcanary:leakcanary-android-core:2.0] C:\Users\bitowl\.gradle\caches\transforms-2\files-2.1\587efce3ffe19ea1cbdf9c2d2bbd75fb\jetified-leakcanary-android-core-2.0\AndroidManifest.xml:41:13-52
+	android:theme
+		ADDED from [com.squareup.leakcanary:leakcanary-android-core:2.0] C:\Users\bitowl\.gradle\caches\transforms-2\files-2.1\587efce3ffe19ea1cbdf9c2d2bbd75fb\jetified-leakcanary-android-core-2.0\AndroidManifest.xml:44:13-63
+	android:taskAffinity
+		ADDED from [com.squareup.leakcanary:leakcanary-android-core:2.0] C:\Users\bitowl\.gradle\caches\transforms-2\files-2.1\587efce3ffe19ea1cbdf9c2d2bbd75fb\jetified-leakcanary-android-core-2.0\AndroidManifest.xml:43:13-76
+	android:name
+		ADDED from [com.squareup.leakcanary:leakcanary-android-core:2.0] C:\Users\bitowl\.gradle\caches\transforms-2\files-2.1\587efce3ffe19ea1cbdf9c2d2bbd75fb\jetified-leakcanary-android-core-2.0\AndroidManifest.xml:40:13-69
+activity-alias#leakcanary.internal.activity.LeakLauncherActivity
+ADDED from [com.squareup.leakcanary:leakcanary-android-core:2.0] C:\Users\bitowl\.gradle\caches\transforms-2\files-2.1\587efce3ffe19ea1cbdf9c2d2bbd75fb\jetified-leakcanary-android-core-2.0\AndroidManifest.xml:46:9-59:26
+	android:enabled
+		ADDED from [com.squareup.leakcanary:leakcanary-android-core:2.0] C:\Users\bitowl\.gradle\caches\transforms-2\files-2.1\587efce3ffe19ea1cbdf9c2d2bbd75fb\jetified-leakcanary-android-core-2.0\AndroidManifest.xml:48:13-66
+	android:label
+		ADDED from [com.squareup.leakcanary:leakcanary-android-core:2.0] C:\Users\bitowl\.gradle\caches\transforms-2\files-2.1\587efce3ffe19ea1cbdf9c2d2bbd75fb\jetified-leakcanary-android-core-2.0\AndroidManifest.xml:50:13-71
+	android:targetActivity
+		ADDED from [com.squareup.leakcanary:leakcanary-android-core:2.0] C:\Users\bitowl\.gradle\caches\transforms-2\files-2.1\587efce3ffe19ea1cbdf9c2d2bbd75fb\jetified-leakcanary-android-core-2.0\AndroidManifest.xml:51:13-79
+	android:icon
+		ADDED from [com.squareup.leakcanary:leakcanary-android-core:2.0] C:\Users\bitowl\.gradle\caches\transforms-2\files-2.1\587efce3ffe19ea1cbdf9c2d2bbd75fb\jetified-leakcanary-android-core-2.0\AndroidManifest.xml:49:13-52
+	android:theme
+		ADDED from [com.squareup.leakcanary:leakcanary-android-core:2.0] C:\Users\bitowl\.gradle\caches\transforms-2\files-2.1\587efce3ffe19ea1cbdf9c2d2bbd75fb\jetified-leakcanary-android-core-2.0\AndroidManifest.xml:53:13-63
+	android:taskAffinity
+		ADDED from [com.squareup.leakcanary:leakcanary-android-core:2.0] C:\Users\bitowl\.gradle\caches\transforms-2\files-2.1\587efce3ffe19ea1cbdf9c2d2bbd75fb\jetified-leakcanary-android-core-2.0\AndroidManifest.xml:52:13-76
+	android:name
+		ADDED from [com.squareup.leakcanary:leakcanary-android-core:2.0] C:\Users\bitowl\.gradle\caches\transforms-2\files-2.1\587efce3ffe19ea1cbdf9c2d2bbd75fb\jetified-leakcanary-android-core-2.0\AndroidManifest.xml:47:13-77
+activity#leakcanary.internal.RequestStoragePermissionActivity
+ADDED from [com.squareup.leakcanary:leakcanary-android-core:2.0] C:\Users\bitowl\.gradle\caches\transforms-2\files-2.1\587efce3ffe19ea1cbdf9c2d2bbd75fb\jetified-leakcanary-android-core-2.0\AndroidManifest.xml:61:9-67:68
+	android:label
+		ADDED from [com.squareup.leakcanary:leakcanary-android-core:2.0] C:\Users\bitowl\.gradle\caches\transforms-2\files-2.1\587efce3ffe19ea1cbdf9c2d2bbd75fb\jetified-leakcanary-android-core-2.0\AndroidManifest.xml:65:13-82
+	android:excludeFromRecents
+		ADDED from [com.squareup.leakcanary:leakcanary-android-core:2.0] C:\Users\bitowl\.gradle\caches\transforms-2\files-2.1\587efce3ffe19ea1cbdf9c2d2bbd75fb\jetified-leakcanary-android-core-2.0\AndroidManifest.xml:63:13-46
+	android:icon
+		ADDED from [com.squareup.leakcanary:leakcanary-android-core:2.0] C:\Users\bitowl\.gradle\caches\transforms-2\files-2.1\587efce3ffe19ea1cbdf9c2d2bbd75fb\jetified-leakcanary-android-core-2.0\AndroidManifest.xml:64:13-52
+	android:theme
+		ADDED from [com.squareup.leakcanary:leakcanary-android-core:2.0] C:\Users\bitowl\.gradle\caches\transforms-2\files-2.1\587efce3ffe19ea1cbdf9c2d2bbd75fb\jetified-leakcanary-android-core-2.0\AndroidManifest.xml:67:13-65
+	android:taskAffinity
+		ADDED from [com.squareup.leakcanary:leakcanary-android-core:2.0] C:\Users\bitowl\.gradle\caches\transforms-2\files-2.1\587efce3ffe19ea1cbdf9c2d2bbd75fb\jetified-leakcanary-android-core-2.0\AndroidManifest.xml:66:13-76
+	android:name
+		ADDED from [com.squareup.leakcanary:leakcanary-android-core:2.0] C:\Users\bitowl\.gradle\caches\transforms-2\files-2.1\587efce3ffe19ea1cbdf9c2d2bbd75fb\jetified-leakcanary-android-core-2.0\AndroidManifest.xml:62:13-80
+receiver#leakcanary.internal.NotificationReceiver
+ADDED from [com.squareup.leakcanary:leakcanary-android-core:2.0] C:\Users\bitowl\.gradle\caches\transforms-2\files-2.1\587efce3ffe19ea1cbdf9c2d2bbd75fb\jetified-leakcanary-android-core-2.0\AndroidManifest.xml:69:9-77
+	android:name
+		ADDED from [com.squareup.leakcanary:leakcanary-android-core:2.0] C:\Users\bitowl\.gradle\caches\transforms-2\files-2.1\587efce3ffe19ea1cbdf9c2d2bbd75fb\jetified-leakcanary-android-core-2.0\AndroidManifest.xml:69:19-74
+provider#leakcanary.internal.AppWatcherInstaller$MainProcess
+ADDED from [com.squareup.leakcanary:leakcanary-object-watcher-android:2.0] C:\Users\bitowl\.gradle\caches\transforms-2\files-2.1\6c4dcfb69396bf14baffa446adc091c3\jetified-leakcanary-object-watcher-android-2.0\AndroidManifest.xml:8:9-11:40
+	android:authorities
+		ADDED from [com.squareup.leakcanary:leakcanary-object-watcher-android:2.0] C:\Users\bitowl\.gradle\caches\transforms-2\files-2.1\6c4dcfb69396bf14baffa446adc091c3\jetified-leakcanary-object-watcher-android-2.0\AndroidManifest.xml:10:13-72
+	android:exported
+		ADDED from [com.squareup.leakcanary:leakcanary-object-watcher-android:2.0] C:\Users\bitowl\.gradle\caches\transforms-2\files-2.1\6c4dcfb69396bf14baffa446adc091c3\jetified-leakcanary-object-watcher-android-2.0\AndroidManifest.xml:11:13-37
+	android:name
+		ADDED from [com.squareup.leakcanary:leakcanary-object-watcher-android:2.0] C:\Users\bitowl\.gradle\caches\transforms-2\files-2.1\6c4dcfb69396bf14baffa446adc091c3\jetified-leakcanary-object-watcher-android-2.0\AndroidManifest.xml:9:13-79
