@@ -1,0 +1,6 @@
+local.properties
+app/build/
+.idea/
+*.iml
+.gradle/
+apikeys.properties
