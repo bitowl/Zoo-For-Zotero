@@ -73,13 +73,9 @@ class ItemAttachmentEntry : Fragment() {
                 icon.setImageResource(R.drawable.epub_icon)
             }
             layout.setOnClickListener {
-                if (linkMode == "linked_file") {
-                    toast("This attachment is linked and I cannot download it.")
-                } else {
-                    fileOpenListener?.openAttachmentFileListener(
-                        attachment ?: throw Exception("No Attachment given.")
-                    )
-                }
+                fileOpenListener?.openAttachmentFileListener(
+                    attachment ?: throw Exception("No Attachment given.")
+                )
             }
 
             layout.onLongClick {

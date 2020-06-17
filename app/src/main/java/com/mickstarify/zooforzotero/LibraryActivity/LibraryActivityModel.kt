@@ -528,7 +528,7 @@ class LibraryActivityModel(private val presenter: Contract.Presenter, val contex
 
     override fun openAttachment(item: Item) {
         /* This is the point of entry when a user clicks an attachment on the UI.
-        *  We must decide whether we want to intitiate a download or just open a local copy. */
+        *  We must decide whether we want to initiate a download or just open a local copy. */
 
         // check to see if the attachment exists but is invalid
         val attachmentExists: Boolean

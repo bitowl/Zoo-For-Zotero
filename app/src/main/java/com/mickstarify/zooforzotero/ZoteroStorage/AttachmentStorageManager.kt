@@ -60,6 +60,9 @@ class AttachmentStorageManager @Inject constructor(
     }
 
     fun getFilenameForItem(item: Item): String {
+        if (item.data["linkMode"].equals("linked_file")) {
+            return item.data["path"]?.removePrefix("attachments:") ?: "unknown.pdf"
+        }
         return item.data.get("filename") ?: "unknown.pdf"
     }
 
@@ -99,7 +102,12 @@ class AttachmentStorageManager @Inject constructor(
         } else if (storageMode == StorageMode.CUSTOM) {
             val location = preferenceManager.getCustomAttachmentStorageLocation()
             val rootDocFile = DocumentFile.fromTreeUri(context, Uri.parse(location))
-            var directory = rootDocFile?.findFile(item.itemKey.toUpperCase(Locale.ROOT))
+            var directory = if (item.data["linkMode"].equals("linked_file")) {
+                // Linked files are not sorted into folders based on the item key
+                rootDocFile
+            } else {
+                rootDocFile?.findFile(item.itemKey.toUpperCase(Locale.ROOT))
+            }
             if (directory == null || directory.isDirectory == false) {
                 return false
             }
@@ -198,7 +206,12 @@ class AttachmentStorageManager @Inject constructor(
 
         } else if (storageMode == StorageMode.CUSTOM) {
             val documentTree = DocumentFile.fromTreeUri(context, getCustomStorageTreeURI())
-            val directory = documentTree?.findFile(item.itemKey.toUpperCase(Locale.ROOT))
+            val directory = if (item.data["linkMode"].equals("linked_file")) {
+                // Linked files are not sorted into folders based on the item key
+                documentTree
+            } else {
+                documentTree?.findFile(item.itemKey.toUpperCase(Locale.ROOT))
+            }
             val file = directory?.findFile(filename) ?: throw FileNotFoundException()
             if (file.exists()) {
                 return file.uri

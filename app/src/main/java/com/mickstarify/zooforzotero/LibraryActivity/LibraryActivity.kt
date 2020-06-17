@@ -457,7 +457,7 @@ class LibraryActivity : AppCompatActivity(), Contract.View,
         }
     }
 
-    /* Is called by the fragment when an attachment is openned by the user. */
+    /* Is called by the fragment when an attachment is opened by the user. */
     override fun openAttachmentFileListener(item: Item) {
         presenter.openAttachment(item)
     }
